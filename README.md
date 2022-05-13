@@ -3,7 +3,7 @@ Project of NYU Tandon 2022S ECE-9143.
 Evaluating the DL Trainging system performance using different precisions.
 We measured the system performence using three different precisions -- FP32, AMP and FP16, discuss the pros and cons and why.
 
-# Usage(NYU HPC):
+## Usage(NYU HPC):
 In sbatch file:
 
 Select network: ResNet18(Default), ResNet34(--use_34), ResNet50(--use_50)
