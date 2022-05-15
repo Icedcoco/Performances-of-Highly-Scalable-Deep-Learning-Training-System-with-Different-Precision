@@ -1,0 +1,3006 @@
+cuda:
+True
+==> Preparing data..
+==> Building model..
+The size of the model is: 42.662MB
+Training epoch 1: Loss=2.552 Acc=10.158 Training_time: 17.90s
+Training time stat of epoch 1: compute=16.695s data=0.992s move=0.211s
+Testing epoch 1: Loss=232.097 Acc=10.140 Testing_time: 1.46s
+Epoch 1: 19.57s
+Total Train: 18.03s, Test: 1.54s
+Training epoch 2: Loss=2.304 Acc=11.082 Training_time: 14.02s
+Training time stat of epoch 2: compute=12.985s data=0.822s move=0.211s
+Testing epoch 2: Loss=227.369 Acc=13.730 Testing_time: 1.37s
+Epoch 2: 35.18s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 3: Loss=2.072 Acc=18.340 Training_time: 14.00s
+Training time stat of epoch 3: compute=12.978s data=0.811s move=0.210s
+Testing epoch 3: Loss=201.013 Acc=18.390 Testing_time: 1.52s
+Epoch 3: 50.93s
+Total Train: 14.14s, Test: 1.61s
+Training epoch 4: Loss=1.957 Acc=20.258 Training_time: 14.24s
+Training time stat of epoch 4: compute=12.982s data=1.052s move=0.211s
+Testing epoch 4: Loss=184.608 Acc=26.020 Testing_time: 1.36s
+Epoch 4: 66.75s
+Total Train: 14.38s, Test: 1.44s
+Training epoch 5: Loss=1.825 Acc=27.178 Training_time: 14.04s
+Training time stat of epoch 5: compute=12.975s data=0.854s move=0.211s
+Testing epoch 5: Loss=173.392 Acc=28.860 Testing_time: 1.36s
+Epoch 5: 82.37s
+Total Train: 14.18s, Test: 1.44s
+Training epoch 6: Loss=1.731 Acc=30.552 Training_time: 14.06s
+Training time stat of epoch 6: compute=12.972s data=0.878s move=0.210s
+Testing epoch 6: Loss=163.365 Acc=32.790 Testing_time: 1.37s
+Epoch 6: 98.02s
+Total Train: 14.20s, Test: 1.45s
+Training epoch 7: Loss=1.654 Acc=33.916 Training_time: 14.01s
+Training time stat of epoch 7: compute=12.963s data=0.835s move=0.209s
+Testing epoch 7: Loss=163.590 Acc=35.350 Testing_time: 1.37s
+Epoch 7: 113.61s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 8: Loss=1.531 Acc=40.870 Training_time: 14.03s
+Training time stat of epoch 8: compute=12.961s data=0.856s move=0.210s
+Testing epoch 8: Loss=144.800 Acc=44.490 Testing_time: 1.35s
+Epoch 8: 129.20s
+Total Train: 14.16s, Test: 1.43s
+Training epoch 9: Loss=1.402 Acc=47.742 Training_time: 14.02s
+Training time stat of epoch 9: compute=12.959s data=0.854s move=0.210s
+Testing epoch 9: Loss=133.057 Acc=52.380 Testing_time: 1.38s
+Epoch 9: 144.83s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 10: Loss=1.263 Acc=53.884 Training_time: 14.00s
+Training time stat of epoch 10: compute=12.955s data=0.839s move=0.207s
+Testing epoch 10: Loss=124.139 Acc=54.130 Testing_time: 1.37s
+Epoch 10: 160.42s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 11: Loss=1.145 Acc=58.686 Training_time: 14.01s
+Training time stat of epoch 11: compute=12.958s data=0.848s move=0.208s
+Testing epoch 11: Loss=130.320 Acc=57.840 Testing_time: 1.38s
+Epoch 11: 176.04s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 12: Loss=1.027 Acc=63.364 Training_time: 14.02s
+Training time stat of epoch 12: compute=12.960s data=0.849s move=0.210s
+Testing epoch 12: Loss=107.133 Acc=62.490 Testing_time: 1.36s
+Epoch 12: 191.64s
+Total Train: 14.16s, Test: 1.44s
+Training epoch 13: Loss=0.927 Acc=67.052 Training_time: 14.02s
+Training time stat of epoch 13: compute=12.953s data=0.860s move=0.210s
+Testing epoch 13: Loss=105.819 Acc=64.570 Testing_time: 1.38s
+Epoch 13: 207.26s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 14: Loss=0.845 Acc=70.242 Training_time: 14.05s
+Training time stat of epoch 14: compute=12.959s data=0.885s move=0.210s
+Testing epoch 14: Loss=97.375 Acc=66.840 Testing_time: 1.36s
+Epoch 14: 222.89s
+Total Train: 14.19s, Test: 1.44s
+Training epoch 15: Loss=0.773 Acc=73.418 Training_time: 14.01s
+Training time stat of epoch 15: compute=12.957s data=0.841s move=0.210s
+Testing epoch 15: Loss=84.669 Acc=70.250 Testing_time: 1.35s
+Epoch 15: 238.47s
+Total Train: 14.14s, Test: 1.43s
+Training epoch 16: Loss=0.711 Acc=75.464 Training_time: 13.99s
+Training time stat of epoch 16: compute=12.952s data=0.829s move=0.209s
+Testing epoch 16: Loss=77.364 Acc=73.440 Testing_time: 1.38s
+Epoch 16: 254.06s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 17: Loss=0.653 Acc=77.578 Training_time: 14.01s
+Training time stat of epoch 17: compute=12.954s data=0.850s move=0.212s
+Testing epoch 17: Loss=67.256 Acc=77.790 Testing_time: 1.35s
+Epoch 17: 269.65s
+Total Train: 14.15s, Test: 1.43s
+Training epoch 18: Loss=0.607 Acc=79.292 Training_time: 14.00s
+Training time stat of epoch 18: compute=12.948s data=0.839s move=0.208s
+Testing epoch 18: Loss=71.634 Acc=76.580 Testing_time: 1.37s
+Epoch 18: 285.23s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 19: Loss=0.566 Acc=80.594 Training_time: 14.01s
+Training time stat of epoch 19: compute=12.954s data=0.846s move=0.211s
+Testing epoch 19: Loss=63.311 Acc=79.060 Testing_time: 1.37s
+Epoch 19: 300.83s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 20: Loss=0.525 Acc=82.164 Training_time: 13.99s
+Training time stat of epoch 20: compute=12.951s data=0.830s move=0.209s
+Testing epoch 20: Loss=71.529 Acc=77.370 Testing_time: 1.38s
+Epoch 20: 316.43s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 21: Loss=0.496 Acc=83.108 Training_time: 14.00s
+Training time stat of epoch 21: compute=12.946s data=0.848s move=0.208s
+Testing epoch 21: Loss=54.803 Acc=81.910 Testing_time: 1.37s
+Epoch 21: 332.05s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 22: Loss=0.469 Acc=84.036 Training_time: 14.01s
+Training time stat of epoch 22: compute=12.953s data=0.846s move=0.209s
+Testing epoch 22: Loss=54.921 Acc=81.890 Testing_time: 1.38s
+Epoch 22: 347.65s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 23: Loss=0.437 Acc=85.110 Training_time: 14.00s
+Training time stat of epoch 23: compute=12.956s data=0.834s move=0.210s
+Testing epoch 23: Loss=49.551 Acc=83.880 Testing_time: 1.41s
+Epoch 23: 363.27s
+Total Train: 14.14s, Test: 1.49s
+Training epoch 24: Loss=0.412 Acc=85.970 Training_time: 14.00s
+Training time stat of epoch 24: compute=12.952s data=0.839s move=0.211s
+Testing epoch 24: Loss=48.945 Acc=83.610 Testing_time: 1.39s
+Epoch 24: 378.89s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 25: Loss=0.388 Acc=86.750 Training_time: 14.03s
+Training time stat of epoch 25: compute=12.951s data=0.867s move=0.212s
+Testing epoch 25: Loss=45.412 Acc=84.880 Testing_time: 1.40s
+Epoch 25: 394.55s
+Total Train: 14.17s, Test: 1.49s
+Training epoch 26: Loss=0.362 Acc=87.614 Training_time: 14.02s
+Training time stat of epoch 26: compute=12.955s data=0.855s move=0.209s
+Testing epoch 26: Loss=47.958 Acc=84.350 Testing_time: 1.38s
+Epoch 26: 410.18s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 27: Loss=0.343 Acc=88.226 Training_time: 14.01s
+Training time stat of epoch 27: compute=12.957s data=0.845s move=0.210s
+Testing epoch 27: Loss=46.174 Acc=85.160 Testing_time: 1.37s
+Epoch 27: 425.80s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 28: Loss=0.323 Acc=88.966 Training_time: 13.97s
+Training time stat of epoch 28: compute=12.946s data=0.817s move=0.210s
+Testing epoch 28: Loss=42.608 Acc=86.170 Testing_time: 1.38s
+Epoch 28: 441.38s
+Total Train: 14.11s, Test: 1.47s
+Training epoch 29: Loss=0.298 Acc=89.748 Training_time: 13.98s
+Training time stat of epoch 29: compute=12.952s data=0.815s move=0.209s
+Testing epoch 29: Loss=50.888 Acc=83.960 Testing_time: 1.40s
+Epoch 29: 456.99s
+Total Train: 14.13s, Test: 1.48s
+Training epoch 30: Loss=0.288 Acc=90.104 Training_time: 14.00s
+Training time stat of epoch 30: compute=12.945s data=0.844s move=0.208s
+Testing epoch 30: Loss=43.959 Acc=85.780 Testing_time: 1.39s
+Epoch 30: 472.60s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 31: Loss=0.269 Acc=90.742 Training_time: 13.99s
+Training time stat of epoch 31: compute=12.954s data=0.829s move=0.210s
+Testing epoch 31: Loss=44.626 Acc=86.050 Testing_time: 1.38s
+Epoch 31: 488.19s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 32: Loss=0.252 Acc=91.270 Training_time: 14.04s
+Training time stat of epoch 32: compute=12.948s data=0.878s move=0.210s
+Testing epoch 32: Loss=41.019 Acc=87.020 Testing_time: 1.37s
+Epoch 32: 503.81s
+Total Train: 14.17s, Test: 1.45s
+Training epoch 33: Loss=0.233 Acc=92.028 Training_time: 14.01s
+Training time stat of epoch 33: compute=12.948s data=0.852s move=0.209s
+Testing epoch 33: Loss=42.575 Acc=87.380 Testing_time: 1.38s
+Epoch 33: 519.42s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 34: Loss=0.215 Acc=92.532 Training_time: 14.02s
+Training time stat of epoch 34: compute=12.950s data=0.865s move=0.209s
+Testing epoch 34: Loss=41.129 Acc=87.140 Testing_time: 1.39s
+Epoch 34: 535.09s
+Total Train: 14.16s, Test: 1.50s
+Training epoch 35: Loss=0.206 Acc=93.022 Training_time: 13.98s
+Training time stat of epoch 35: compute=12.949s data=0.820s move=0.210s
+Testing epoch 35: Loss=38.161 Acc=88.140 Testing_time: 1.37s
+Epoch 35: 550.66s
+Total Train: 14.12s, Test: 1.46s
+Training epoch 36: Loss=0.187 Acc=93.486 Training_time: 14.01s
+Training time stat of epoch 36: compute=12.950s data=0.845s move=0.210s
+Testing epoch 36: Loss=40.181 Acc=87.730 Testing_time: 1.37s
+Epoch 36: 566.25s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 37: Loss=0.173 Acc=93.986 Training_time: 14.02s
+Training time stat of epoch 37: compute=12.951s data=0.854s move=0.211s
+Testing epoch 37: Loss=40.146 Acc=88.120 Testing_time: 1.37s
+Epoch 37: 581.87s
+Total Train: 14.17s, Test: 1.45s
+Training epoch 38: Loss=0.155 Acc=94.546 Training_time: 13.99s
+Training time stat of epoch 38: compute=12.952s data=0.829s move=0.210s
+Testing epoch 38: Loss=39.221 Acc=88.360 Testing_time: 1.40s
+Epoch 38: 597.48s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 39: Loss=0.149 Acc=94.970 Training_time: 14.00s
+Training time stat of epoch 39: compute=12.945s data=0.846s move=0.209s
+Testing epoch 39: Loss=39.897 Acc=89.000 Testing_time: 1.40s
+Epoch 39: 613.10s
+Total Train: 14.14s, Test: 1.48s
+Training epoch 40: Loss=0.135 Acc=95.372 Training_time: 13.97s
+Training time stat of epoch 40: compute=12.947s data=0.815s move=0.209s
+Testing epoch 40: Loss=39.452 Acc=88.980 Testing_time: 1.38s
+Epoch 40: 628.67s
+Total Train: 14.11s, Test: 1.47s
+Training epoch 41: Loss=0.125 Acc=95.688 Training_time: 14.00s
+Training time stat of epoch 41: compute=12.949s data=0.842s move=0.208s
+Testing epoch 41: Loss=39.873 Acc=88.870 Testing_time: 1.37s
+Epoch 41: 644.27s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 42: Loss=0.115 Acc=95.982 Training_time: 13.99s
+Training time stat of epoch 42: compute=12.943s data=0.837s move=0.207s
+Testing epoch 42: Loss=41.246 Acc=88.860 Testing_time: 1.38s
+Epoch 42: 659.85s
+Total Train: 14.12s, Test: 1.46s
+Training epoch 43: Loss=0.104 Acc=96.378 Training_time: 14.00s
+Training time stat of epoch 43: compute=12.950s data=0.837s move=0.211s
+Testing epoch 43: Loss=40.344 Acc=89.210 Testing_time: 1.36s
+Epoch 43: 675.43s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 44: Loss=0.100 Acc=96.556 Training_time: 13.99s
+Training time stat of epoch 44: compute=12.949s data=0.835s move=0.209s
+Testing epoch 44: Loss=41.418 Acc=89.160 Testing_time: 1.39s
+Epoch 44: 691.02s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 45: Loss=0.093 Acc=96.842 Training_time: 13.98s
+Training time stat of epoch 45: compute=12.949s data=0.824s move=0.209s
+Testing epoch 45: Loss=42.083 Acc=89.100 Testing_time: 1.37s
+Epoch 45: 706.59s
+Total Train: 14.12s, Test: 1.45s
+Training epoch 46: Loss=0.087 Acc=96.960 Training_time: 14.04s
+Training time stat of epoch 46: compute=12.947s data=0.879s move=0.211s
+Testing epoch 46: Loss=41.485 Acc=89.230 Testing_time: 1.38s
+Epoch 46: 722.23s
+Total Train: 14.18s, Test: 1.46s
+Training epoch 47: Loss=0.084 Acc=97.122 Training_time: 14.01s
+Training time stat of epoch 47: compute=12.949s data=0.852s move=0.211s
+Testing epoch 47: Loss=42.299 Acc=89.150 Testing_time: 1.38s
+Epoch 47: 737.85s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 48: Loss=0.082 Acc=97.160 Training_time: 13.99s
+Training time stat of epoch 48: compute=12.950s data=0.826s move=0.210s
+Testing epoch 48: Loss=42.138 Acc=89.150 Testing_time: 1.38s
+Epoch 48: 753.43s
+Total Train: 14.12s, Test: 1.46s
+Training epoch 49: Loss=0.079 Acc=97.228 Training_time: 14.01s
+Training time stat of epoch 49: compute=12.953s data=0.843s move=0.212s
+Testing epoch 49: Loss=42.365 Acc=89.230 Testing_time: 1.40s
+Epoch 49: 769.06s
+Total Train: 14.15s, Test: 1.48s
+Training epoch 50: Loss=0.081 Acc=97.246 Training_time: 14.00s
+Training time stat of epoch 50: compute=12.947s data=0.847s move=0.210s
+Testing epoch 50: Loss=41.875 Acc=89.350 Testing_time: 1.38s
+Epoch 50: 784.67s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 51: Loss=0.078 Acc=97.382 Training_time: 14.00s
+Training time stat of epoch 51: compute=12.950s data=0.844s move=0.210s
+Testing epoch 51: Loss=41.910 Acc=89.270 Testing_time: 1.36s
+Epoch 51: 800.25s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 52: Loss=0.078 Acc=97.318 Training_time: 14.02s
+Training time stat of epoch 52: compute=12.951s data=0.864s move=0.210s
+Testing epoch 52: Loss=41.567 Acc=89.350 Testing_time: 1.37s
+Epoch 52: 815.88s
+Total Train: 14.17s, Test: 1.45s
+Training epoch 53: Loss=0.077 Acc=97.436 Training_time: 13.95s
+Training time stat of epoch 53: compute=12.943s data=0.795s move=0.208s
+Testing epoch 53: Loss=42.055 Acc=89.230 Testing_time: 1.39s
+Epoch 53: 831.43s
+Total Train: 14.09s, Test: 1.46s
+Training epoch 54: Loss=0.079 Acc=97.290 Training_time: 13.99s
+Training time stat of epoch 54: compute=12.947s data=0.839s move=0.209s
+Testing epoch 54: Loss=42.468 Acc=89.320 Testing_time: 1.38s
+Epoch 54: 847.02s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 55: Loss=0.077 Acc=97.336 Training_time: 14.02s
+Training time stat of epoch 55: compute=12.948s data=0.863s move=0.211s
+Testing epoch 55: Loss=42.853 Acc=89.260 Testing_time: 1.38s
+Epoch 55: 862.64s
+Total Train: 14.17s, Test: 1.45s
+Training epoch 56: Loss=0.082 Acc=97.158 Training_time: 14.00s
+Training time stat of epoch 56: compute=12.949s data=0.843s move=0.210s
+Testing epoch 56: Loss=42.913 Acc=89.260 Testing_time: 1.37s
+Epoch 56: 878.23s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 57: Loss=0.082 Acc=97.128 Training_time: 14.01s
+Training time stat of epoch 57: compute=12.949s data=0.853s move=0.211s
+Testing epoch 57: Loss=43.126 Acc=89.200 Testing_time: 1.39s
+Epoch 57: 893.85s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 58: Loss=0.082 Acc=97.146 Training_time: 13.99s
+Training time stat of epoch 58: compute=12.949s data=0.833s move=0.211s
+Testing epoch 58: Loss=43.768 Acc=89.210 Testing_time: 1.38s
+Epoch 58: 909.44s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 59: Loss=0.086 Acc=96.930 Training_time: 13.98s
+Training time stat of epoch 59: compute=12.948s data=0.819s move=0.209s
+Testing epoch 59: Loss=45.063 Acc=88.830 Testing_time: 1.38s
+Epoch 59: 925.01s
+Total Train: 14.11s, Test: 1.46s
+Training epoch 60: Loss=0.092 Acc=96.802 Training_time: 14.04s
+Training time stat of epoch 60: compute=12.949s data=0.878s move=0.210s
+Testing epoch 60: Loss=47.061 Acc=88.710 Testing_time: 1.38s
+Epoch 60: 940.65s
+Total Train: 14.18s, Test: 1.46s
+Training epoch 61: Loss=0.096 Acc=96.660 Training_time: 14.04s
+Training time stat of epoch 61: compute=12.953s data=0.875s move=0.213s
+Testing epoch 61: Loss=45.070 Acc=88.950 Testing_time: 1.37s
+Epoch 61: 956.28s
+Total Train: 14.18s, Test: 1.45s
+Training epoch 62: Loss=0.103 Acc=96.268 Training_time: 14.03s
+Training time stat of epoch 62: compute=12.949s data=0.873s move=0.211s
+Testing epoch 62: Loss=44.114 Acc=88.650 Testing_time: 1.38s
+Epoch 62: 971.90s
+Total Train: 14.17s, Test: 1.45s
+Training epoch 63: Loss=0.109 Acc=96.138 Training_time: 14.01s
+Training time stat of epoch 63: compute=12.954s data=0.843s move=0.212s
+Testing epoch 63: Loss=46.631 Acc=88.020 Testing_time: 1.36s
+Epoch 63: 987.49s
+Total Train: 14.15s, Test: 1.44s
+Training epoch 64: Loss=0.119 Acc=95.772 Training_time: 14.01s
+Training time stat of epoch 64: compute=12.956s data=0.841s move=0.211s
+Testing epoch 64: Loss=45.775 Acc=88.390 Testing_time: 1.36s
+Epoch 64: 1003.08s
+Total Train: 14.15s, Test: 1.44s
+Training epoch 65: Loss=0.127 Acc=95.472 Training_time: 14.01s
+Training time stat of epoch 65: compute=12.948s data=0.853s move=0.211s
+Testing epoch 65: Loss=45.042 Acc=88.140 Testing_time: 1.36s
+Epoch 65: 1018.67s
+Total Train: 14.15s, Test: 1.44s
+Training epoch 66: Loss=0.136 Acc=95.222 Training_time: 14.01s
+Training time stat of epoch 66: compute=12.949s data=0.850s move=0.211s
+Testing epoch 66: Loss=42.325 Acc=88.550 Testing_time: 1.37s
+Epoch 66: 1034.27s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 67: Loss=0.143 Acc=94.902 Training_time: 14.01s
+Training time stat of epoch 67: compute=12.954s data=0.846s move=0.211s
+Testing epoch 67: Loss=50.027 Acc=87.140 Testing_time: 1.37s
+Epoch 67: 1049.87s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 68: Loss=0.146 Acc=94.812 Training_time: 14.03s
+Training time stat of epoch 68: compute=12.958s data=0.862s move=0.212s
+Testing epoch 68: Loss=48.509 Acc=87.040 Testing_time: 1.39s
+Epoch 68: 1065.51s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 69: Loss=0.154 Acc=94.596 Training_time: 14.00s
+Training time stat of epoch 69: compute=12.956s data=0.831s move=0.213s
+Testing epoch 69: Loss=47.002 Acc=87.320 Testing_time: 1.38s
+Epoch 69: 1081.12s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 70: Loss=0.163 Acc=94.314 Training_time: 14.01s
+Training time stat of epoch 70: compute=12.960s data=0.835s move=0.212s
+Testing epoch 70: Loss=44.289 Acc=87.520 Testing_time: 1.39s
+Epoch 70: 1096.73s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 71: Loss=0.169 Acc=94.062 Training_time: 13.97s
+Training time stat of epoch 71: compute=12.949s data=0.812s move=0.210s
+Testing epoch 71: Loss=46.913 Acc=87.210 Testing_time: 1.38s
+Epoch 71: 1112.31s
+Total Train: 14.12s, Test: 1.46s
+Training epoch 72: Loss=0.172 Acc=93.924 Training_time: 14.03s
+Training time stat of epoch 72: compute=12.950s data=0.868s move=0.210s
+Testing epoch 72: Loss=42.402 Acc=87.640 Testing_time: 1.38s
+Epoch 72: 1127.94s
+Total Train: 14.17s, Test: 1.45s
+Training epoch 73: Loss=0.180 Acc=93.720 Training_time: 13.99s
+Training time stat of epoch 73: compute=12.947s data=0.830s move=0.210s
+Testing epoch 73: Loss=42.498 Acc=87.320 Testing_time: 1.38s
+Epoch 73: 1143.53s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 74: Loss=0.184 Acc=93.526 Training_time: 13.99s
+Training time stat of epoch 74: compute=12.955s data=0.823s move=0.210s
+Testing epoch 74: Loss=44.540 Acc=87.080 Testing_time: 1.41s
+Epoch 74: 1159.14s
+Total Train: 14.13s, Test: 1.49s
+Training epoch 75: Loss=0.188 Acc=93.414 Training_time: 14.00s
+Training time stat of epoch 75: compute=12.951s data=0.841s move=0.211s
+Testing epoch 75: Loss=51.286 Acc=85.150 Testing_time: 1.37s
+Epoch 75: 1174.73s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 76: Loss=0.198 Acc=93.070 Training_time: 14.04s
+Training time stat of epoch 76: compute=12.956s data=0.869s move=0.211s
+Testing epoch 76: Loss=45.071 Acc=86.580 Testing_time: 1.39s
+Epoch 76: 1190.40s
+Total Train: 14.19s, Test: 1.47s
+Training epoch 77: Loss=0.197 Acc=93.138 Training_time: 14.04s
+Training time stat of epoch 77: compute=12.957s data=0.867s move=0.213s
+Testing epoch 77: Loss=45.627 Acc=86.970 Testing_time: 1.39s
+Epoch 77: 1206.05s
+Total Train: 14.18s, Test: 1.47s
+Training epoch 78: Loss=0.198 Acc=93.064 Training_time: 14.04s
+Training time stat of epoch 78: compute=12.952s data=0.879s move=0.211s
+Testing epoch 78: Loss=43.635 Acc=86.810 Testing_time: 1.38s
+Epoch 78: 1221.70s
+Total Train: 14.19s, Test: 1.46s
+Training epoch 79: Loss=0.197 Acc=93.160 Training_time: 13.99s
+Training time stat of epoch 79: compute=12.953s data=0.826s move=0.211s
+Testing epoch 79: Loss=47.114 Acc=86.280 Testing_time: 1.39s
+Epoch 79: 1237.29s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 80: Loss=0.197 Acc=93.166 Training_time: 14.03s
+Training time stat of epoch 80: compute=12.949s data=0.869s move=0.209s
+Testing epoch 80: Loss=56.667 Acc=84.860 Testing_time: 1.39s
+Epoch 80: 1252.93s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 81: Loss=0.199 Acc=93.070 Training_time: 14.00s
+Training time stat of epoch 81: compute=12.951s data=0.837s move=0.211s
+Testing epoch 81: Loss=49.722 Acc=85.610 Testing_time: 1.38s
+Epoch 81: 1268.54s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 82: Loss=0.202 Acc=93.018 Training_time: 13.99s
+Training time stat of epoch 82: compute=12.949s data=0.835s move=0.210s
+Testing epoch 82: Loss=41.262 Acc=87.970 Testing_time: 1.37s
+Epoch 82: 1284.12s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 83: Loss=0.199 Acc=93.106 Training_time: 14.01s
+Training time stat of epoch 83: compute=12.955s data=0.839s move=0.212s
+Testing epoch 83: Loss=51.283 Acc=85.610 Testing_time: 1.38s
+Epoch 83: 1299.72s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 84: Loss=0.196 Acc=93.168 Training_time: 14.05s
+Training time stat of epoch 84: compute=12.953s data=0.882s move=0.211s
+Testing epoch 84: Loss=47.690 Acc=86.440 Testing_time: 1.37s
+Epoch 84: 1315.36s
+Total Train: 14.19s, Test: 1.44s
+Training epoch 85: Loss=0.191 Acc=93.394 Training_time: 14.00s
+Training time stat of epoch 85: compute=12.952s data=0.834s move=0.211s
+Testing epoch 85: Loss=44.501 Acc=86.900 Testing_time: 1.36s
+Epoch 85: 1330.94s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 86: Loss=0.191 Acc=93.394 Training_time: 14.02s
+Training time stat of epoch 86: compute=12.951s data=0.856s move=0.210s
+Testing epoch 86: Loss=51.276 Acc=86.130 Testing_time: 1.38s
+Epoch 86: 1346.55s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 87: Loss=0.193 Acc=93.310 Training_time: 14.02s
+Training time stat of epoch 87: compute=12.947s data=0.861s move=0.212s
+Testing epoch 87: Loss=38.737 Acc=87.980 Testing_time: 1.38s
+Epoch 87: 1362.17s
+Total Train: 14.17s, Test: 1.45s
+Training epoch 88: Loss=0.180 Acc=93.740 Training_time: 14.01s
+Training time stat of epoch 88: compute=12.947s data=0.850s move=0.209s
+Testing epoch 88: Loss=42.572 Acc=87.680 Testing_time: 1.38s
+Epoch 88: 1377.77s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 89: Loss=0.183 Acc=93.580 Training_time: 14.01s
+Training time stat of epoch 89: compute=12.962s data=0.833s move=0.214s
+Testing epoch 89: Loss=45.192 Acc=86.910 Testing_time: 1.41s
+Epoch 89: 1393.41s
+Total Train: 14.15s, Test: 1.49s
+Training epoch 90: Loss=0.178 Acc=93.880 Training_time: 13.96s
+Training time stat of epoch 90: compute=12.936s data=0.817s move=0.205s
+Testing epoch 90: Loss=45.397 Acc=87.190 Testing_time: 1.35s
+Epoch 90: 1408.93s
+Total Train: 14.09s, Test: 1.43s
+Training epoch 91: Loss=0.175 Acc=94.018 Training_time: 13.99s
+Training time stat of epoch 91: compute=12.940s data=0.843s move=0.207s
+Testing epoch 91: Loss=45.155 Acc=87.330 Testing_time: 1.35s
+Epoch 91: 1424.49s
+Total Train: 14.12s, Test: 1.43s
+Training epoch 92: Loss=0.177 Acc=93.912 Training_time: 14.03s
+Training time stat of epoch 92: compute=12.946s data=0.869s move=0.210s
+Testing epoch 92: Loss=42.582 Acc=87.930 Testing_time: 1.39s
+Epoch 92: 1440.12s
+Total Train: 14.16s, Test: 1.47s
+Training epoch 93: Loss=0.171 Acc=94.094 Training_time: 14.03s
+Training time stat of epoch 93: compute=12.958s data=0.859s move=0.216s
+Testing epoch 93: Loss=42.532 Acc=87.710 Testing_time: 1.39s
+Epoch 93: 1455.78s
+Total Train: 14.18s, Test: 1.48s
+Training epoch 94: Loss=0.165 Acc=94.334 Training_time: 14.02s
+Training time stat of epoch 94: compute=12.954s data=0.857s move=0.213s
+Testing epoch 94: Loss=44.374 Acc=87.530 Testing_time: 1.39s
+Epoch 94: 1471.42s
+Total Train: 14.17s, Test: 1.48s
+Training epoch 95: Loss=0.160 Acc=94.494 Training_time: 14.02s
+Training time stat of epoch 95: compute=12.950s data=0.857s move=0.212s
+Testing epoch 95: Loss=40.125 Acc=88.640 Testing_time: 1.37s
+Epoch 95: 1487.04s
+Total Train: 14.17s, Test: 1.45s
+Training epoch 96: Loss=0.160 Acc=94.482 Training_time: 14.00s
+Training time stat of epoch 96: compute=12.948s data=0.844s move=0.211s
+Testing epoch 96: Loss=40.625 Acc=88.250 Testing_time: 1.38s
+Epoch 96: 1502.63s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 97: Loss=0.152 Acc=94.708 Training_time: 14.03s
+Training time stat of epoch 97: compute=12.953s data=0.867s move=0.212s
+Testing epoch 97: Loss=46.955 Acc=86.920 Testing_time: 1.38s
+Epoch 97: 1518.26s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 98: Loss=0.152 Acc=94.774 Training_time: 14.01s
+Training time stat of epoch 98: compute=12.953s data=0.841s move=0.211s
+Testing epoch 98: Loss=53.682 Acc=85.330 Testing_time: 1.39s
+Epoch 98: 1533.88s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 99: Loss=0.142 Acc=95.190 Training_time: 14.03s
+Training time stat of epoch 99: compute=12.956s data=0.863s move=0.212s
+Testing epoch 99: Loss=46.643 Acc=87.560 Testing_time: 1.40s
+Epoch 99: 1549.53s
+Total Train: 14.17s, Test: 1.48s
+Training epoch 100: Loss=0.141 Acc=95.108 Training_time: 14.01s
+Training time stat of epoch 100: compute=12.952s data=0.846s move=0.212s
+Testing epoch 100: Loss=44.679 Acc=87.700 Testing_time: 1.41s
+Epoch 100: 1565.17s
+Total Train: 14.15s, Test: 1.49s
+Training epoch 101: Loss=0.137 Acc=95.326 Training_time: 14.04s
+Training time stat of epoch 101: compute=12.952s data=0.876s move=0.211s
+Testing epoch 101: Loss=42.191 Acc=88.450 Testing_time: 1.38s
+Epoch 101: 1580.80s
+Total Train: 14.18s, Test: 1.45s
+Training epoch 102: Loss=0.133 Acc=95.344 Training_time: 14.00s
+Training time stat of epoch 102: compute=12.953s data=0.840s move=0.211s
+Testing epoch 102: Loss=45.366 Acc=87.580 Testing_time: 1.38s
+Epoch 102: 1596.41s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 103: Loss=0.136 Acc=95.342 Training_time: 14.00s
+Training time stat of epoch 103: compute=12.949s data=0.842s move=0.212s
+Testing epoch 103: Loss=43.366 Acc=87.810 Testing_time: 1.36s
+Epoch 103: 1611.99s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 104: Loss=0.125 Acc=95.684 Training_time: 13.99s
+Training time stat of epoch 104: compute=12.949s data=0.834s move=0.211s
+Testing epoch 104: Loss=40.857 Acc=88.960 Testing_time: 1.40s
+Epoch 104: 1627.60s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 105: Loss=0.118 Acc=95.930 Training_time: 14.02s
+Training time stat of epoch 105: compute=12.958s data=0.850s move=0.213s
+Testing epoch 105: Loss=38.979 Acc=89.100 Testing_time: 1.38s
+Epoch 105: 1643.22s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 106: Loss=0.115 Acc=95.912 Training_time: 14.01s
+Training time stat of epoch 106: compute=12.950s data=0.854s move=0.210s
+Testing epoch 106: Loss=50.136 Acc=87.620 Testing_time: 1.37s
+Epoch 106: 1658.82s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 107: Loss=0.114 Acc=96.128 Training_time: 14.01s
+Training time stat of epoch 107: compute=12.961s data=0.833s move=0.211s
+Testing epoch 107: Loss=43.121 Acc=88.580 Testing_time: 1.38s
+Epoch 107: 1674.44s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 108: Loss=0.106 Acc=96.370 Training_time: 14.01s
+Training time stat of epoch 108: compute=12.954s data=0.847s move=0.211s
+Testing epoch 108: Loss=47.601 Acc=87.790 Testing_time: 1.37s
+Epoch 108: 1690.04s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 109: Loss=0.096 Acc=96.704 Training_time: 14.01s
+Training time stat of epoch 109: compute=12.950s data=0.854s move=0.209s
+Testing epoch 109: Loss=41.881 Acc=89.240 Testing_time: 1.38s
+Epoch 109: 1705.65s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 110: Loss=0.096 Acc=96.680 Training_time: 14.02s
+Training time stat of epoch 110: compute=12.953s data=0.854s move=0.210s
+Testing epoch 110: Loss=43.878 Acc=89.060 Testing_time: 1.38s
+Epoch 110: 1721.26s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 111: Loss=0.090 Acc=96.852 Training_time: 14.04s
+Training time stat of epoch 111: compute=12.959s data=0.871s move=0.213s
+Testing epoch 111: Loss=42.440 Acc=89.600 Testing_time: 1.36s
+Epoch 111: 1736.90s
+Total Train: 14.18s, Test: 1.46s
+Training epoch 112: Loss=0.084 Acc=97.122 Training_time: 14.00s
+Training time stat of epoch 112: compute=12.947s data=0.842s move=0.210s
+Testing epoch 112: Loss=45.908 Acc=88.890 Testing_time: 1.38s
+Epoch 112: 1752.51s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 113: Loss=0.081 Acc=97.246 Training_time: 13.98s
+Training time stat of epoch 113: compute=12.947s data=0.826s move=0.211s
+Testing epoch 113: Loss=41.485 Acc=89.720 Testing_time: 1.39s
+Epoch 113: 1768.13s
+Total Train: 14.12s, Test: 1.50s
+Training epoch 114: Loss=0.077 Acc=97.286 Training_time: 14.02s
+Training time stat of epoch 114: compute=12.950s data=0.857s move=0.212s
+Testing epoch 114: Loss=45.016 Acc=89.460 Testing_time: 1.39s
+Epoch 114: 1783.75s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 115: Loss=0.071 Acc=97.480 Training_time: 13.99s
+Training time stat of epoch 115: compute=12.949s data=0.827s move=0.210s
+Testing epoch 115: Loss=42.697 Acc=89.470 Testing_time: 1.36s
+Epoch 115: 1799.33s
+Total Train: 14.12s, Test: 1.45s
+Training epoch 116: Loss=0.068 Acc=97.664 Training_time: 14.01s
+Training time stat of epoch 116: compute=12.950s data=0.848s move=0.211s
+Testing epoch 116: Loss=41.972 Acc=89.010 Testing_time: 1.37s
+Epoch 116: 1814.92s
+Total Train: 14.15s, Test: 1.44s
+Training epoch 117: Loss=0.064 Acc=97.838 Training_time: 14.01s
+Training time stat of epoch 117: compute=12.944s data=0.851s move=0.211s
+Testing epoch 117: Loss=43.271 Acc=89.830 Testing_time: 1.38s
+Epoch 117: 1830.53s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 118: Loss=0.055 Acc=98.070 Training_time: 13.99s
+Training time stat of epoch 118: compute=12.950s data=0.835s move=0.210s
+Testing epoch 118: Loss=45.987 Acc=89.640 Testing_time: 1.40s
+Epoch 118: 1846.17s
+Total Train: 14.14s, Test: 1.51s
+Training epoch 119: Loss=0.050 Acc=98.256 Training_time: 14.02s
+Training time stat of epoch 119: compute=12.956s data=0.849s move=0.213s
+Testing epoch 119: Loss=48.517 Acc=89.440 Testing_time: 1.37s
+Epoch 119: 1861.78s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 120: Loss=0.048 Acc=98.320 Training_time: 14.02s
+Training time stat of epoch 120: compute=12.957s data=0.855s move=0.212s
+Testing epoch 120: Loss=42.699 Acc=89.870 Testing_time: 1.37s
+Epoch 120: 1877.40s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 121: Loss=0.042 Acc=98.584 Training_time: 14.01s
+Training time stat of epoch 121: compute=12.948s data=0.852s move=0.208s
+Testing epoch 121: Loss=44.445 Acc=90.220 Testing_time: 1.36s
+Epoch 121: 1893.01s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 122: Loss=0.039 Acc=98.616 Training_time: 14.01s
+Training time stat of epoch 122: compute=12.951s data=0.848s move=0.210s
+Testing epoch 122: Loss=44.779 Acc=90.030 Testing_time: 1.38s
+Epoch 122: 1908.63s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 123: Loss=0.032 Acc=98.918 Training_time: 14.02s
+Training time stat of epoch 123: compute=12.953s data=0.854s move=0.211s
+Testing epoch 123: Loss=44.206 Acc=90.690 Testing_time: 1.36s
+Epoch 123: 1924.23s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 124: Loss=0.031 Acc=98.908 Training_time: 14.01s
+Training time stat of epoch 124: compute=12.954s data=0.845s move=0.211s
+Testing epoch 124: Loss=47.363 Acc=89.900 Testing_time: 1.36s
+Epoch 124: 1939.83s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 125: Loss=0.029 Acc=98.930 Training_time: 14.00s
+Training time stat of epoch 125: compute=12.949s data=0.837s move=0.211s
+Testing epoch 125: Loss=48.944 Acc=90.350 Testing_time: 1.37s
+Epoch 125: 1955.42s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 126: Loss=0.024 Acc=99.180 Training_time: 13.99s
+Training time stat of epoch 126: compute=12.959s data=0.818s move=0.212s
+Testing epoch 126: Loss=48.187 Acc=90.520 Testing_time: 1.37s
+Epoch 126: 1971.04s
+Total Train: 14.13s, Test: 1.49s
+Training epoch 127: Loss=0.022 Acc=99.210 Training_time: 14.04s
+Training time stat of epoch 127: compute=12.958s data=0.871s move=0.213s
+Testing epoch 127: Loss=49.354 Acc=90.380 Testing_time: 1.36s
+Epoch 127: 1986.66s
+Total Train: 14.18s, Test: 1.44s
+Training epoch 128: Loss=0.023 Acc=99.194 Training_time: 14.03s
+Training time stat of epoch 128: compute=12.952s data=0.871s move=0.211s
+Testing epoch 128: Loss=44.856 Acc=91.460 Testing_time: 1.35s
+Epoch 128: 2002.26s
+Total Train: 14.17s, Test: 1.43s
+Training epoch 129: Loss=0.018 Acc=99.378 Training_time: 14.03s
+Training time stat of epoch 129: compute=12.958s data=0.857s move=0.212s
+Testing epoch 129: Loss=48.153 Acc=90.780 Testing_time: 1.38s
+Epoch 129: 2017.89s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 130: Loss=0.016 Acc=99.400 Training_time: 14.01s
+Training time stat of epoch 130: compute=12.951s data=0.851s move=0.210s
+Testing epoch 130: Loss=45.885 Acc=91.360 Testing_time: 1.37s
+Epoch 130: 2033.49s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 131: Loss=0.012 Acc=99.604 Training_time: 14.00s
+Training time stat of epoch 131: compute=12.954s data=0.840s move=0.210s
+Testing epoch 131: Loss=48.838 Acc=91.180 Testing_time: 1.37s
+Epoch 131: 2049.09s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 132: Loss=0.011 Acc=99.632 Training_time: 14.02s
+Training time stat of epoch 132: compute=12.954s data=0.854s move=0.211s
+Testing epoch 132: Loss=46.182 Acc=91.550 Testing_time: 1.39s
+Epoch 132: 2064.72s
+Total Train: 14.16s, Test: 1.47s
+Training epoch 133: Loss=0.009 Acc=99.704 Training_time: 13.98s
+Training time stat of epoch 133: compute=12.949s data=0.827s move=0.207s
+Testing epoch 133: Loss=48.514 Acc=91.500 Testing_time: 1.35s
+Epoch 133: 2080.27s
+Total Train: 14.14s, Test: 1.42s
+Training epoch 134: Loss=0.006 Acc=99.830 Training_time: 14.00s
+Training time stat of epoch 134: compute=12.950s data=0.842s move=0.210s
+Testing epoch 134: Loss=50.072 Acc=91.560 Testing_time: 1.41s
+Epoch 134: 2095.92s
+Total Train: 14.14s, Test: 1.50s
+Training epoch 135: Loss=0.007 Acc=99.788 Training_time: 14.03s
+Training time stat of epoch 135: compute=12.961s data=0.853s move=0.213s
+Testing epoch 135: Loss=49.162 Acc=91.860 Testing_time: 1.36s
+Epoch 135: 2111.53s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 136: Loss=0.005 Acc=99.820 Training_time: 13.98s
+Training time stat of epoch 136: compute=12.958s data=0.811s move=0.209s
+Testing epoch 136: Loss=49.834 Acc=91.930 Testing_time: 1.37s
+Epoch 136: 2127.11s
+Total Train: 14.13s, Test: 1.44s
+Training epoch 137: Loss=0.005 Acc=99.842 Training_time: 14.00s
+Training time stat of epoch 137: compute=12.958s data=0.836s move=0.211s
+Testing epoch 137: Loss=51.064 Acc=91.790 Testing_time: 1.37s
+Epoch 137: 2142.74s
+Total Train: 14.15s, Test: 1.48s
+Training epoch 138: Loss=0.004 Acc=99.880 Training_time: 14.02s
+Training time stat of epoch 138: compute=12.953s data=0.852s move=0.212s
+Testing epoch 138: Loss=50.355 Acc=91.680 Testing_time: 1.35s
+Epoch 138: 2158.33s
+Total Train: 14.16s, Test: 1.44s
+Training epoch 139: Loss=0.004 Acc=99.878 Training_time: 14.02s
+Training time stat of epoch 139: compute=12.957s data=0.853s move=0.212s
+Testing epoch 139: Loss=50.125 Acc=92.020 Testing_time: 1.35s
+Epoch 139: 2173.92s
+Total Train: 14.16s, Test: 1.44s
+Training epoch 140: Loss=0.004 Acc=99.870 Training_time: 13.99s
+Training time stat of epoch 140: compute=12.953s data=0.828s move=0.208s
+Testing epoch 140: Loss=49.804 Acc=92.050 Testing_time: 1.36s
+Epoch 140: 2189.49s
+Total Train: 14.12s, Test: 1.44s
+Training epoch 141: Loss=0.003 Acc=99.878 Training_time: 14.02s
+Training time stat of epoch 141: compute=12.958s data=0.845s move=0.213s
+Testing epoch 141: Loss=49.687 Acc=91.870 Testing_time: 1.38s
+Epoch 141: 2205.10s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 142: Loss=0.003 Acc=99.900 Training_time: 14.00s
+Training time stat of epoch 142: compute=12.958s data=0.828s move=0.211s
+Testing epoch 142: Loss=49.576 Acc=91.900 Testing_time: 1.37s
+Epoch 142: 2220.69s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 143: Loss=0.003 Acc=99.932 Training_time: 14.00s
+Training time stat of epoch 143: compute=12.962s data=0.823s move=0.213s
+Testing epoch 143: Loss=49.751 Acc=91.850 Testing_time: 1.36s
+Epoch 143: 2236.27s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 144: Loss=0.002 Acc=99.946 Training_time: 14.01s
+Training time stat of epoch 144: compute=12.963s data=0.833s move=0.212s
+Testing epoch 144: Loss=49.408 Acc=92.070 Testing_time: 1.40s
+Epoch 144: 2251.90s
+Total Train: 14.15s, Test: 1.49s
+Training epoch 145: Loss=0.002 Acc=99.918 Training_time: 14.00s
+Training time stat of epoch 145: compute=12.959s data=0.832s move=0.214s
+Testing epoch 145: Loss=49.947 Acc=92.110 Testing_time: 1.38s
+Epoch 145: 2267.50s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 146: Loss=0.002 Acc=99.916 Training_time: 14.01s
+Training time stat of epoch 146: compute=12.954s data=0.845s move=0.211s
+Testing epoch 146: Loss=50.149 Acc=92.100 Testing_time: 1.39s
+Epoch 146: 2283.11s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 147: Loss=0.002 Acc=99.948 Training_time: 14.02s
+Training time stat of epoch 147: compute=12.957s data=0.848s move=0.211s
+Testing epoch 147: Loss=49.999 Acc=92.120 Testing_time: 1.38s
+Epoch 147: 2298.74s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 148: Loss=0.002 Acc=99.946 Training_time: 14.01s
+Training time stat of epoch 148: compute=12.956s data=0.846s move=0.211s
+Testing epoch 148: Loss=49.891 Acc=92.150 Testing_time: 1.38s
+Epoch 148: 2314.35s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 149: Loss=0.002 Acc=99.952 Training_time: 13.98s
+Training time stat of epoch 149: compute=12.957s data=0.812s move=0.210s
+Testing epoch 149: Loss=49.801 Acc=92.080 Testing_time: 1.37s
+Epoch 149: 2329.92s
+Total Train: 14.12s, Test: 1.45s
+Training epoch 150: Loss=0.002 Acc=99.938 Training_time: 14.03s
+Training time stat of epoch 150: compute=12.959s data=0.860s move=0.213s
+Testing epoch 150: Loss=49.743 Acc=92.010 Testing_time: 1.38s
+Epoch 150: 2345.55s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 151: Loss=0.002 Acc=99.946 Training_time: 14.01s
+Training time stat of epoch 151: compute=12.953s data=0.841s move=0.213s
+Testing epoch 151: Loss=49.726 Acc=92.140 Testing_time: 1.37s
+Epoch 151: 2361.14s
+Total Train: 14.15s, Test: 1.44s
+Training epoch 152: Loss=0.002 Acc=99.948 Training_time: 14.00s
+Training time stat of epoch 152: compute=12.953s data=0.832s move=0.211s
+Testing epoch 152: Loss=49.824 Acc=92.060 Testing_time: 1.38s
+Epoch 152: 2376.75s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 153: Loss=0.002 Acc=99.958 Training_time: 13.99s
+Training time stat of epoch 153: compute=12.957s data=0.823s move=0.212s
+Testing epoch 153: Loss=49.852 Acc=91.960 Testing_time: 1.37s
+Epoch 153: 2392.34s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 154: Loss=0.002 Acc=99.946 Training_time: 13.98s
+Training time stat of epoch 154: compute=12.957s data=0.809s move=0.210s
+Testing epoch 154: Loss=49.636 Acc=92.080 Testing_time: 1.37s
+Epoch 154: 2407.91s
+Total Train: 14.11s, Test: 1.46s
+Training epoch 155: Loss=0.001 Acc=99.972 Training_time: 14.02s
+Training time stat of epoch 155: compute=12.957s data=0.853s move=0.211s
+Testing epoch 155: Loss=49.804 Acc=92.080 Testing_time: 1.39s
+Epoch 155: 2423.54s
+Total Train: 14.16s, Test: 1.47s
+Training epoch 156: Loss=0.002 Acc=99.930 Training_time: 13.99s
+Training time stat of epoch 156: compute=12.955s data=0.826s move=0.210s
+Testing epoch 156: Loss=49.677 Acc=92.160 Testing_time: 1.37s
+Epoch 156: 2439.12s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 157: Loss=0.002 Acc=99.942 Training_time: 13.98s
+Training time stat of epoch 157: compute=12.953s data=0.813s move=0.211s
+Testing epoch 157: Loss=49.867 Acc=92.190 Testing_time: 1.35s
+Epoch 157: 2454.67s
+Total Train: 14.11s, Test: 1.44s
+Training epoch 158: Loss=0.002 Acc=99.948 Training_time: 13.99s
+Training time stat of epoch 158: compute=12.955s data=0.827s move=0.213s
+Testing epoch 158: Loss=50.118 Acc=92.120 Testing_time: 1.38s
+Epoch 158: 2470.28s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 159: Loss=0.002 Acc=99.950 Training_time: 14.00s
+Training time stat of epoch 159: compute=12.959s data=0.832s move=0.210s
+Testing epoch 159: Loss=50.644 Acc=92.250 Testing_time: 1.35s
+Epoch 159: 2485.86s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 160: Loss=0.002 Acc=99.948 Training_time: 14.01s
+Training time stat of epoch 160: compute=12.957s data=0.842s move=0.210s
+Testing epoch 160: Loss=51.255 Acc=92.160 Testing_time: 1.38s
+Epoch 160: 2501.47s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 161: Loss=0.002 Acc=99.950 Training_time: 14.03s
+Training time stat of epoch 161: compute=12.960s data=0.858s move=0.212s
+Testing epoch 161: Loss=50.957 Acc=92.120 Testing_time: 1.40s
+Epoch 161: 2517.11s
+Total Train: 14.17s, Test: 1.48s
+Training epoch 162: Loss=0.002 Acc=99.954 Training_time: 14.02s
+Training time stat of epoch 162: compute=12.957s data=0.853s move=0.211s
+Testing epoch 162: Loss=51.559 Acc=91.910 Testing_time: 1.36s
+Epoch 162: 2532.71s
+Total Train: 14.16s, Test: 1.44s
+Training epoch 163: Loss=0.003 Acc=99.908 Training_time: 14.01s
+Training time stat of epoch 163: compute=12.956s data=0.846s move=0.211s
+Testing epoch 163: Loss=53.429 Acc=91.900 Testing_time: 1.38s
+Epoch 163: 2548.32s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 164: Loss=0.003 Acc=99.936 Training_time: 14.00s
+Training time stat of epoch 164: compute=12.954s data=0.832s move=0.211s
+Testing epoch 164: Loss=53.724 Acc=91.810 Testing_time: 1.37s
+Epoch 164: 2563.92s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 165: Loss=0.002 Acc=99.916 Training_time: 14.00s
+Training time stat of epoch 165: compute=12.954s data=0.839s move=0.210s
+Testing epoch 165: Loss=54.236 Acc=91.960 Testing_time: 1.38s
+Epoch 165: 2579.52s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 166: Loss=0.003 Acc=99.896 Training_time: 13.99s
+Training time stat of epoch 166: compute=12.955s data=0.826s move=0.210s
+Testing epoch 166: Loss=54.036 Acc=91.830 Testing_time: 1.37s
+Epoch 166: 2595.11s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 167: Loss=0.003 Acc=99.914 Training_time: 13.98s
+Training time stat of epoch 167: compute=12.949s data=0.816s move=0.210s
+Testing epoch 167: Loss=54.472 Acc=91.940 Testing_time: 1.37s
+Epoch 167: 2610.67s
+Total Train: 14.11s, Test: 1.45s
+Training epoch 168: Loss=0.003 Acc=99.888 Training_time: 14.05s
+Training time stat of epoch 168: compute=12.955s data=0.886s move=0.211s
+Testing epoch 168: Loss=54.447 Acc=91.880 Testing_time: 1.39s
+Epoch 168: 2626.32s
+Total Train: 14.19s, Test: 1.46s
+Training epoch 169: Loss=0.005 Acc=99.820 Training_time: 13.99s
+Training time stat of epoch 169: compute=12.958s data=0.821s move=0.213s
+Testing epoch 169: Loss=56.303 Acc=91.770 Testing_time: 1.36s
+Epoch 169: 2641.90s
+Total Train: 14.13s, Test: 1.44s
+Training epoch 170: Loss=0.009 Acc=99.702 Training_time: 14.01s
+Training time stat of epoch 170: compute=12.961s data=0.834s move=0.212s
+Testing epoch 170: Loss=53.327 Acc=91.280 Testing_time: 1.36s
+Epoch 170: 2657.48s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 171: Loss=0.011 Acc=99.626 Training_time: 14.03s
+Training time stat of epoch 171: compute=12.962s data=0.857s move=0.212s
+Testing epoch 171: Loss=55.018 Acc=91.210 Testing_time: 1.38s
+Epoch 171: 2673.12s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 172: Loss=0.015 Acc=99.500 Training_time: 14.00s
+Training time stat of epoch 172: compute=12.953s data=0.838s move=0.210s
+Testing epoch 172: Loss=52.103 Acc=90.740 Testing_time: 1.37s
+Epoch 172: 2688.70s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 173: Loss=0.014 Acc=99.508 Training_time: 14.02s
+Training time stat of epoch 173: compute=12.951s data=0.854s move=0.211s
+Testing epoch 173: Loss=54.925 Acc=90.590 Testing_time: 1.37s
+Epoch 173: 2704.35s
+Total Train: 14.18s, Test: 1.46s
+Training epoch 174: Loss=0.019 Acc=99.380 Training_time: 14.00s
+Training time stat of epoch 174: compute=12.951s data=0.840s move=0.209s
+Testing epoch 174: Loss=47.874 Acc=91.300 Testing_time: 1.35s
+Epoch 174: 2719.91s
+Total Train: 14.14s, Test: 1.43s
+Training epoch 175: Loss=0.021 Acc=99.256 Training_time: 14.01s
+Training time stat of epoch 175: compute=12.956s data=0.845s move=0.212s
+Testing epoch 175: Loss=53.874 Acc=89.900 Testing_time: 1.36s
+Epoch 175: 2735.51s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 176: Loss=0.025 Acc=99.182 Training_time: 14.01s
+Training time stat of epoch 176: compute=12.963s data=0.839s move=0.213s
+Testing epoch 176: Loss=45.104 Acc=90.690 Testing_time: 1.38s
+Epoch 176: 2751.12s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 177: Loss=0.025 Acc=99.156 Training_time: 14.02s
+Training time stat of epoch 177: compute=12.955s data=0.851s move=0.210s
+Testing epoch 177: Loss=47.306 Acc=90.420 Testing_time: 1.37s
+Epoch 177: 2766.75s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 178: Loss=0.031 Acc=98.970 Training_time: 14.01s
+Training time stat of epoch 178: compute=12.959s data=0.837s move=0.211s
+Testing epoch 178: Loss=48.113 Acc=89.980 Testing_time: 1.39s
+Epoch 178: 2782.37s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 179: Loss=0.035 Acc=98.872 Training_time: 14.00s
+Training time stat of epoch 179: compute=12.956s data=0.832s move=0.212s
+Testing epoch 179: Loss=47.660 Acc=90.540 Testing_time: 1.38s
+Epoch 179: 2797.97s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 180: Loss=0.042 Acc=98.534 Training_time: 14.02s
+Training time stat of epoch 180: compute=12.959s data=0.844s move=0.212s
+Testing epoch 180: Loss=48.274 Acc=89.590 Testing_time: 1.39s
+Epoch 180: 2813.60s
+Total Train: 14.16s, Test: 1.47s
+Training epoch 181: Loss=0.049 Acc=98.308 Training_time: 13.99s
+Training time stat of epoch 181: compute=12.951s data=0.829s move=0.211s
+Testing epoch 181: Loss=46.977 Acc=90.070 Testing_time: 1.39s
+Epoch 181: 2829.20s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 182: Loss=0.053 Acc=98.248 Training_time: 14.00s
+Training time stat of epoch 182: compute=12.959s data=0.835s move=0.211s
+Testing epoch 182: Loss=49.780 Acc=89.450 Testing_time: 1.37s
+Epoch 182: 2844.80s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 183: Loss=0.058 Acc=98.014 Training_time: 13.97s
+Training time stat of epoch 183: compute=12.949s data=0.811s move=0.208s
+Testing epoch 183: Loss=44.825 Acc=89.530 Testing_time: 1.38s
+Epoch 183: 2860.36s
+Total Train: 14.11s, Test: 1.45s
+Training epoch 184: Loss=0.058 Acc=97.952 Training_time: 13.99s
+Training time stat of epoch 184: compute=12.950s data=0.831s move=0.209s
+Testing epoch 184: Loss=42.746 Acc=89.940 Testing_time: 1.40s
+Epoch 184: 2875.98s
+Total Train: 14.13s, Test: 1.49s
+Training epoch 185: Loss=0.064 Acc=97.836 Training_time: 14.00s
+Training time stat of epoch 185: compute=12.954s data=0.833s move=0.211s
+Testing epoch 185: Loss=44.445 Acc=90.190 Testing_time: 1.39s
+Epoch 185: 2891.59s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 186: Loss=0.067 Acc=97.710 Training_time: 14.02s
+Training time stat of epoch 186: compute=12.952s data=0.855s move=0.209s
+Testing epoch 186: Loss=43.944 Acc=89.860 Testing_time: 1.35s
+Epoch 186: 2907.17s
+Total Train: 14.15s, Test: 1.43s
+Training epoch 187: Loss=0.073 Acc=97.502 Training_time: 14.02s
+Training time stat of epoch 187: compute=12.956s data=0.851s move=0.212s
+Testing epoch 187: Loss=44.469 Acc=89.440 Testing_time: 1.36s
+Epoch 187: 2922.77s
+Total Train: 14.16s, Test: 1.44s
+Training epoch 188: Loss=0.069 Acc=97.668 Training_time: 14.02s
+Training time stat of epoch 188: compute=12.955s data=0.852s move=0.211s
+Testing epoch 188: Loss=48.246 Acc=88.880 Testing_time: 1.40s
+Epoch 188: 2938.40s
+Total Train: 14.15s, Test: 1.48s
+Training epoch 189: Loss=0.074 Acc=97.480 Training_time: 14.00s
+Training time stat of epoch 189: compute=12.951s data=0.837s move=0.210s
+Testing epoch 189: Loss=51.970 Acc=88.530 Testing_time: 1.36s
+Epoch 189: 2953.98s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 190: Loss=0.079 Acc=97.288 Training_time: 14.02s
+Training time stat of epoch 190: compute=12.954s data=0.859s move=0.212s
+Testing epoch 190: Loss=43.791 Acc=89.320 Testing_time: 1.36s
+Epoch 190: 2969.59s
+Total Train: 14.17s, Test: 1.44s
+Training epoch 191: Loss=0.073 Acc=97.482 Training_time: 13.99s
+Training time stat of epoch 191: compute=12.953s data=0.821s move=0.212s
+Testing epoch 191: Loss=43.714 Acc=89.440 Testing_time: 1.34s
+Epoch 191: 2985.14s
+Total Train: 14.13s, Test: 1.42s
+Training epoch 192: Loss=0.078 Acc=97.296 Training_time: 13.99s
+Training time stat of epoch 192: compute=12.948s data=0.829s move=0.210s
+Testing epoch 192: Loss=47.199 Acc=88.570 Testing_time: 1.37s
+Epoch 192: 3000.72s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 193: Loss=0.077 Acc=97.348 Training_time: 14.00s
+Training time stat of epoch 193: compute=12.957s data=0.834s move=0.213s
+Testing epoch 193: Loss=45.978 Acc=88.750 Testing_time: 1.39s
+Epoch 193: 3016.34s
+Total Train: 14.14s, Test: 1.48s
+Training epoch 194: Loss=0.081 Acc=97.264 Training_time: 14.02s
+Training time stat of epoch 194: compute=12.956s data=0.846s move=0.213s
+Testing epoch 194: Loss=45.248 Acc=88.580 Testing_time: 1.39s
+Epoch 194: 3031.98s
+Total Train: 14.17s, Test: 1.48s
+Training epoch 195: Loss=0.081 Acc=97.260 Training_time: 13.97s
+Training time stat of epoch 195: compute=12.957s data=0.799s move=0.213s
+Testing epoch 195: Loss=41.650 Acc=89.870 Testing_time: 1.40s
+Epoch 195: 3047.56s
+Total Train: 14.11s, Test: 1.48s
+Training epoch 196: Loss=0.079 Acc=97.348 Training_time: 14.01s
+Training time stat of epoch 196: compute=12.949s data=0.851s move=0.212s
+Testing epoch 196: Loss=42.327 Acc=89.300 Testing_time: 1.39s
+Epoch 196: 3063.19s
+Total Train: 14.15s, Test: 1.48s
+Training epoch 197: Loss=0.080 Acc=97.308 Training_time: 13.98s
+Training time stat of epoch 197: compute=12.953s data=0.811s move=0.212s
+Testing epoch 197: Loss=41.040 Acc=89.730 Testing_time: 1.41s
+Epoch 197: 3078.80s
+Total Train: 14.11s, Test: 1.49s
+Training epoch 198: Loss=0.079 Acc=97.318 Training_time: 14.02s
+Training time stat of epoch 198: compute=12.951s data=0.853s move=0.213s
+Testing epoch 198: Loss=41.183 Acc=89.810 Testing_time: 1.41s
+Epoch 198: 3094.46s
+Total Train: 14.15s, Test: 1.50s
+Training epoch 199: Loss=0.080 Acc=97.304 Training_time: 14.01s
+Training time stat of epoch 199: compute=12.950s data=0.847s move=0.213s
+Testing epoch 199: Loss=47.336 Acc=88.830 Testing_time: 1.37s
+Epoch 199: 3110.08s
+Total Train: 14.15s, Test: 1.48s
+Training epoch 200: Loss=0.078 Acc=97.280 Training_time: 14.05s
+Training time stat of epoch 200: compute=12.958s data=0.876s move=0.214s
+Testing epoch 200: Loss=44.155 Acc=89.560 Testing_time: 1.37s
+Epoch 200: 3125.73s
+Total Train: 14.19s, Test: 1.45s
+Training epoch 201: Loss=0.078 Acc=97.146 Training_time: 14.00s
+Training time stat of epoch 201: compute=12.955s data=0.828s move=0.212s
+Testing epoch 201: Loss=44.294 Acc=88.900 Testing_time: 1.36s
+Epoch 201: 3141.31s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 202: Loss=0.077 Acc=97.344 Training_time: 13.98s
+Training time stat of epoch 202: compute=12.946s data=0.826s move=0.210s
+Testing epoch 202: Loss=40.781 Acc=89.860 Testing_time: 1.38s
+Epoch 202: 3156.89s
+Total Train: 14.12s, Test: 1.46s
+Training epoch 203: Loss=0.070 Acc=97.602 Training_time: 14.00s
+Training time stat of epoch 203: compute=12.954s data=0.837s move=0.212s
+Testing epoch 203: Loss=42.137 Acc=89.740 Testing_time: 1.36s
+Epoch 203: 3172.47s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 204: Loss=0.070 Acc=97.644 Training_time: 14.01s
+Training time stat of epoch 204: compute=12.956s data=0.840s move=0.213s
+Testing epoch 204: Loss=43.131 Acc=89.440 Testing_time: 1.39s
+Epoch 204: 3188.08s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 205: Loss=0.072 Acc=97.560 Training_time: 14.01s
+Training time stat of epoch 205: compute=12.959s data=0.832s move=0.215s
+Testing epoch 205: Loss=41.642 Acc=89.560 Testing_time: 1.38s
+Epoch 205: 3203.69s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 206: Loss=0.071 Acc=97.602 Training_time: 14.02s
+Training time stat of epoch 206: compute=12.952s data=0.858s move=0.211s
+Testing epoch 206: Loss=40.577 Acc=89.670 Testing_time: 1.38s
+Epoch 206: 3219.31s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 207: Loss=0.065 Acc=97.740 Training_time: 14.01s
+Training time stat of epoch 207: compute=12.952s data=0.847s move=0.213s
+Testing epoch 207: Loss=44.701 Acc=89.660 Testing_time: 1.38s
+Epoch 207: 3234.95s
+Total Train: 14.15s, Test: 1.49s
+Training epoch 208: Loss=0.062 Acc=97.820 Training_time: 13.98s
+Training time stat of epoch 208: compute=12.950s data=0.816s move=0.211s
+Testing epoch 208: Loss=40.991 Acc=89.970 Testing_time: 1.37s
+Epoch 208: 3250.52s
+Total Train: 14.12s, Test: 1.45s
+Training epoch 209: Loss=0.058 Acc=98.026 Training_time: 14.00s
+Training time stat of epoch 209: compute=12.948s data=0.841s move=0.213s
+Testing epoch 209: Loss=50.384 Acc=89.230 Testing_time: 1.38s
+Epoch 209: 3266.12s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 210: Loss=0.054 Acc=98.134 Training_time: 14.00s
+Training time stat of epoch 210: compute=12.947s data=0.846s move=0.211s
+Testing epoch 210: Loss=41.667 Acc=90.370 Testing_time: 1.37s
+Epoch 210: 3281.72s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 211: Loss=0.053 Acc=98.170 Training_time: 14.01s
+Training time stat of epoch 211: compute=12.951s data=0.843s move=0.213s
+Testing epoch 211: Loss=46.059 Acc=89.530 Testing_time: 1.38s
+Epoch 211: 3297.33s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 212: Loss=0.049 Acc=98.278 Training_time: 14.00s
+Training time stat of epoch 212: compute=12.949s data=0.837s move=0.211s
+Testing epoch 212: Loss=43.215 Acc=90.520 Testing_time: 1.38s
+Epoch 212: 3312.93s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 213: Loss=0.047 Acc=98.350 Training_time: 13.98s
+Training time stat of epoch 213: compute=12.951s data=0.817s move=0.212s
+Testing epoch 213: Loss=40.952 Acc=90.520 Testing_time: 1.37s
+Epoch 213: 3328.52s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 214: Loss=0.043 Acc=98.468 Training_time: 14.00s
+Training time stat of epoch 214: compute=12.950s data=0.836s move=0.213s
+Testing epoch 214: Loss=44.492 Acc=90.140 Testing_time: 1.39s
+Epoch 214: 3344.13s
+Total Train: 14.14s, Test: 1.48s
+Training epoch 215: Loss=0.044 Acc=98.448 Training_time: 13.99s
+Training time stat of epoch 215: compute=12.946s data=0.832s move=0.209s
+Testing epoch 215: Loss=46.120 Acc=90.160 Testing_time: 1.35s
+Epoch 215: 3359.70s
+Total Train: 14.12s, Test: 1.44s
+Training epoch 216: Loss=0.039 Acc=98.668 Training_time: 14.03s
+Training time stat of epoch 216: compute=12.951s data=0.863s move=0.215s
+Testing epoch 216: Loss=45.625 Acc=90.570 Testing_time: 1.38s
+Epoch 216: 3375.32s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 217: Loss=0.035 Acc=98.760 Training_time: 14.02s
+Training time stat of epoch 217: compute=12.951s data=0.858s move=0.212s
+Testing epoch 217: Loss=45.152 Acc=90.660 Testing_time: 1.40s
+Epoch 217: 3390.97s
+Total Train: 14.16s, Test: 1.49s
+Training epoch 218: Loss=0.032 Acc=98.906 Training_time: 14.02s
+Training time stat of epoch 218: compute=12.951s data=0.856s move=0.215s
+Testing epoch 218: Loss=44.211 Acc=90.810 Testing_time: 1.39s
+Epoch 218: 3406.60s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 219: Loss=0.027 Acc=99.042 Training_time: 14.01s
+Training time stat of epoch 219: compute=12.954s data=0.838s move=0.215s
+Testing epoch 219: Loss=53.901 Acc=89.590 Testing_time: 1.42s
+Epoch 219: 3422.25s
+Total Train: 14.14s, Test: 1.51s
+Training epoch 220: Loss=0.025 Acc=99.108 Training_time: 14.02s
+Training time stat of epoch 220: compute=12.951s data=0.852s move=0.213s
+Testing epoch 220: Loss=47.330 Acc=90.860 Testing_time: 1.38s
+Epoch 220: 3437.90s
+Total Train: 14.17s, Test: 1.48s
+Training epoch 221: Loss=0.025 Acc=99.160 Training_time: 14.01s
+Training time stat of epoch 221: compute=12.955s data=0.842s move=0.214s
+Testing epoch 221: Loss=44.897 Acc=91.050 Testing_time: 1.37s
+Epoch 221: 3453.50s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 222: Loss=0.022 Acc=99.252 Training_time: 14.01s
+Training time stat of epoch 222: compute=12.955s data=0.844s move=0.212s
+Testing epoch 222: Loss=45.568 Acc=90.980 Testing_time: 1.41s
+Epoch 222: 3469.14s
+Total Train: 14.15s, Test: 1.49s
+Training epoch 223: Loss=0.018 Acc=99.354 Training_time: 14.01s
+Training time stat of epoch 223: compute=12.957s data=0.842s move=0.214s
+Testing epoch 223: Loss=46.180 Acc=91.110 Testing_time: 1.37s
+Epoch 223: 3484.74s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 224: Loss=0.016 Acc=99.466 Training_time: 14.02s
+Training time stat of epoch 224: compute=12.954s data=0.856s move=0.214s
+Testing epoch 224: Loss=46.746 Acc=91.670 Testing_time: 1.39s
+Epoch 224: 3500.37s
+Total Train: 14.16s, Test: 1.47s
+Training epoch 225: Loss=0.014 Acc=99.494 Training_time: 14.02s
+Training time stat of epoch 225: compute=12.955s data=0.850s move=0.213s
+Testing epoch 225: Loss=51.691 Acc=90.720 Testing_time: 1.38s
+Epoch 225: 3516.00s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 226: Loss=0.012 Acc=99.610 Training_time: 14.06s
+Training time stat of epoch 226: compute=12.955s data=0.891s move=0.214s
+Testing epoch 226: Loss=47.466 Acc=91.490 Testing_time: 1.39s
+Epoch 226: 3531.69s
+Total Train: 14.20s, Test: 1.48s
+Training epoch 227: Loss=0.010 Acc=99.688 Training_time: 14.00s
+Training time stat of epoch 227: compute=12.957s data=0.826s move=0.214s
+Testing epoch 227: Loss=48.095 Acc=91.420 Testing_time: 1.37s
+Epoch 227: 3547.28s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 228: Loss=0.008 Acc=99.742 Training_time: 13.98s
+Training time stat of epoch 228: compute=12.954s data=0.815s move=0.213s
+Testing epoch 228: Loss=46.804 Acc=91.270 Testing_time: 1.37s
+Epoch 228: 3562.90s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 229: Loss=0.008 Acc=99.730 Training_time: 14.02s
+Training time stat of epoch 229: compute=12.956s data=0.855s move=0.214s
+Testing epoch 229: Loss=47.597 Acc=91.770 Testing_time: 1.39s
+Epoch 229: 3578.53s
+Total Train: 14.16s, Test: 1.47s
+Training epoch 230: Loss=0.006 Acc=99.802 Training_time: 14.03s
+Training time stat of epoch 230: compute=12.955s data=0.862s move=0.213s
+Testing epoch 230: Loss=48.461 Acc=91.770 Testing_time: 1.38s
+Epoch 230: 3594.16s
+Total Train: 14.17s, Test: 1.47s
+Training epoch 231: Loss=0.004 Acc=99.864 Training_time: 14.01s
+Training time stat of epoch 231: compute=12.955s data=0.841s move=0.214s
+Testing epoch 231: Loss=48.116 Acc=92.010 Testing_time: 1.36s
+Epoch 231: 3609.77s
+Total Train: 14.16s, Test: 1.44s
+Training epoch 232: Loss=0.004 Acc=99.864 Training_time: 14.02s
+Training time stat of epoch 232: compute=12.954s data=0.856s move=0.212s
+Testing epoch 232: Loss=49.554 Acc=92.180 Testing_time: 1.35s
+Epoch 232: 3625.37s
+Total Train: 14.16s, Test: 1.44s
+Training epoch 233: Loss=0.003 Acc=99.894 Training_time: 14.02s
+Training time stat of epoch 233: compute=12.949s data=0.860s move=0.213s
+Testing epoch 233: Loss=49.466 Acc=92.020 Testing_time: 1.36s
+Epoch 233: 3640.97s
+Total Train: 14.17s, Test: 1.43s
+Training epoch 234: Loss=0.003 Acc=99.900 Training_time: 14.01s
+Training time stat of epoch 234: compute=12.953s data=0.846s move=0.214s
+Testing epoch 234: Loss=49.939 Acc=92.180 Testing_time: 1.39s
+Epoch 234: 3656.59s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 235: Loss=0.003 Acc=99.900 Training_time: 14.02s
+Training time stat of epoch 235: compute=12.953s data=0.852s move=0.213s
+Testing epoch 235: Loss=48.765 Acc=92.290 Testing_time: 1.38s
+Epoch 235: 3672.21s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 236: Loss=0.002 Acc=99.954 Training_time: 13.97s
+Training time stat of epoch 236: compute=12.949s data=0.813s move=0.212s
+Testing epoch 236: Loss=50.504 Acc=92.240 Testing_time: 1.38s
+Epoch 236: 3687.78s
+Total Train: 14.11s, Test: 1.46s
+Training epoch 237: Loss=0.002 Acc=99.940 Training_time: 14.00s
+Training time stat of epoch 237: compute=12.952s data=0.839s move=0.212s
+Testing epoch 237: Loss=50.263 Acc=92.110 Testing_time: 1.39s
+Epoch 237: 3703.39s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 238: Loss=0.002 Acc=99.954 Training_time: 14.01s
+Training time stat of epoch 238: compute=12.951s data=0.849s move=0.213s
+Testing epoch 238: Loss=49.063 Acc=92.420 Testing_time: 1.35s
+Epoch 238: 3718.98s
+Total Train: 14.15s, Test: 1.44s
+Training epoch 239: Loss=0.002 Acc=99.940 Training_time: 14.00s
+Training time stat of epoch 239: compute=12.949s data=0.836s move=0.211s
+Testing epoch 239: Loss=48.054 Acc=92.440 Testing_time: 1.38s
+Epoch 239: 3734.57s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 240: Loss=0.001 Acc=99.968 Training_time: 14.02s
+Training time stat of epoch 240: compute=12.957s data=0.855s move=0.212s
+Testing epoch 240: Loss=48.308 Acc=92.500 Testing_time: 1.37s
+Epoch 240: 3750.19s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 241: Loss=0.001 Acc=99.958 Training_time: 14.00s
+Training time stat of epoch 241: compute=12.953s data=0.831s move=0.214s
+Testing epoch 241: Loss=48.583 Acc=92.440 Testing_time: 1.38s
+Epoch 241: 3765.79s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 242: Loss=0.001 Acc=99.964 Training_time: 14.02s
+Training time stat of epoch 242: compute=12.950s data=0.857s move=0.212s
+Testing epoch 242: Loss=48.466 Acc=92.530 Testing_time: 1.38s
+Epoch 242: 3781.41s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 243: Loss=0.001 Acc=99.960 Training_time: 13.98s
+Training time stat of epoch 243: compute=12.954s data=0.816s move=0.212s
+Testing epoch 243: Loss=48.916 Acc=92.540 Testing_time: 1.38s
+Epoch 243: 3796.98s
+Total Train: 14.12s, Test: 1.46s
+Training epoch 244: Loss=0.001 Acc=99.980 Training_time: 14.04s
+Training time stat of epoch 244: compute=12.954s data=0.877s move=0.209s
+Testing epoch 244: Loss=48.833 Acc=92.600 Testing_time: 1.36s
+Epoch 244: 3812.61s
+Total Train: 14.18s, Test: 1.45s
+Training epoch 245: Loss=0.001 Acc=99.970 Training_time: 14.03s
+Training time stat of epoch 245: compute=12.956s data=0.865s move=0.207s
+Testing epoch 245: Loss=49.172 Acc=92.570 Testing_time: 1.37s
+Epoch 245: 3828.23s
+Total Train: 14.17s, Test: 1.45s
+Training epoch 246: Loss=0.001 Acc=99.982 Training_time: 13.98s
+Training time stat of epoch 246: compute=12.951s data=0.819s move=0.205s
+Testing epoch 246: Loss=48.834 Acc=92.570 Testing_time: 1.36s
+Epoch 246: 3843.79s
+Total Train: 14.11s, Test: 1.44s
+Training epoch 247: Loss=0.001 Acc=99.972 Training_time: 13.98s
+Training time stat of epoch 247: compute=12.951s data=0.825s move=0.205s
+Testing epoch 247: Loss=48.765 Acc=92.630 Testing_time: 1.38s
+Epoch 247: 3859.41s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 248: Loss=0.001 Acc=99.966 Training_time: 14.01s
+Training time stat of epoch 248: compute=12.951s data=0.852s move=0.204s
+Testing epoch 248: Loss=48.699 Acc=92.590 Testing_time: 1.38s
+Epoch 248: 3875.02s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 249: Loss=0.001 Acc=99.970 Training_time: 13.99s
+Training time stat of epoch 249: compute=12.959s data=0.828s move=0.207s
+Testing epoch 249: Loss=49.222 Acc=92.540 Testing_time: 1.34s
+Epoch 249: 3890.57s
+Total Train: 14.13s, Test: 1.42s
+Training epoch 250: Loss=0.001 Acc=99.972 Training_time: 13.99s
+Training time stat of epoch 250: compute=12.951s data=0.839s move=0.205s
+Testing epoch 250: Loss=48.801 Acc=92.630 Testing_time: 1.40s
+Epoch 250: 3906.18s
+Total Train: 14.13s, Test: 1.48s
+Training epoch 251: Loss=0.001 Acc=99.984 Training_time: 14.03s
+Training time stat of epoch 251: compute=12.952s data=0.872s move=0.206s
+Testing epoch 251: Loss=48.795 Acc=92.620 Testing_time: 1.36s
+Epoch 251: 3921.78s
+Total Train: 14.17s, Test: 1.44s
+Training epoch 252: Loss=0.001 Acc=99.974 Training_time: 14.00s
+Training time stat of epoch 252: compute=12.951s data=0.840s move=0.204s
+Testing epoch 252: Loss=48.864 Acc=92.640 Testing_time: 1.37s
+Epoch 252: 3937.36s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 253: Loss=0.001 Acc=99.978 Training_time: 13.97s
+Training time stat of epoch 253: compute=12.955s data=0.809s move=0.205s
+Testing epoch 253: Loss=48.652 Acc=92.550 Testing_time: 1.39s
+Epoch 253: 3952.95s
+Total Train: 14.12s, Test: 1.48s
+Training epoch 254: Loss=0.001 Acc=99.976 Training_time: 13.99s
+Training time stat of epoch 254: compute=12.955s data=0.830s move=0.205s
+Testing epoch 254: Loss=49.304 Acc=92.540 Testing_time: 1.36s
+Epoch 254: 3968.53s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 255: Loss=0.001 Acc=99.976 Training_time: 13.97s
+Training time stat of epoch 255: compute=12.953s data=0.812s move=0.206s
+Testing epoch 255: Loss=48.666 Acc=92.650 Testing_time: 1.38s
+Epoch 255: 3984.09s
+Total Train: 14.11s, Test: 1.45s
+Training epoch 256: Loss=0.001 Acc=99.980 Training_time: 14.03s
+Training time stat of epoch 256: compute=12.954s data=0.867s move=0.206s
+Testing epoch 256: Loss=49.360 Acc=92.640 Testing_time: 1.37s
+Epoch 256: 3999.71s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 257: Loss=0.001 Acc=99.982 Training_time: 13.97s
+Training time stat of epoch 257: compute=12.955s data=0.814s move=0.206s
+Testing epoch 257: Loss=49.149 Acc=92.620 Testing_time: 1.40s
+Epoch 257: 4015.30s
+Total Train: 14.11s, Test: 1.48s
+Training epoch 258: Loss=0.001 Acc=99.982 Training_time: 13.96s
+Training time stat of epoch 258: compute=12.948s data=0.806s move=0.202s
+Testing epoch 258: Loss=49.129 Acc=92.550 Testing_time: 1.38s
+Epoch 258: 4030.86s
+Total Train: 14.10s, Test: 1.46s
+Training epoch 259: Loss=0.001 Acc=99.976 Training_time: 14.02s
+Training time stat of epoch 259: compute=12.951s data=0.859s move=0.206s
+Testing epoch 259: Loss=48.670 Acc=92.570 Testing_time: 1.39s
+Epoch 259: 4046.48s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 260: Loss=0.001 Acc=99.972 Training_time: 13.98s
+Training time stat of epoch 260: compute=12.951s data=0.828s move=0.204s
+Testing epoch 260: Loss=49.138 Acc=92.580 Testing_time: 1.39s
+Epoch 260: 4062.08s
+Total Train: 14.12s, Test: 1.47s
+Training epoch 261: Loss=0.001 Acc=99.978 Training_time: 14.00s
+Training time stat of epoch 261: compute=12.949s data=0.846s move=0.205s
+Testing epoch 261: Loss=49.380 Acc=92.430 Testing_time: 1.36s
+Epoch 261: 4077.66s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 262: Loss=0.001 Acc=99.976 Training_time: 14.00s
+Training time stat of epoch 262: compute=12.947s data=0.849s move=0.204s
+Testing epoch 262: Loss=49.862 Acc=92.640 Testing_time: 1.38s
+Epoch 262: 4093.25s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 263: Loss=0.001 Acc=99.974 Training_time: 14.02s
+Training time stat of epoch 263: compute=12.954s data=0.862s move=0.205s
+Testing epoch 263: Loss=49.401 Acc=92.560 Testing_time: 1.40s
+Epoch 263: 4108.90s
+Total Train: 14.16s, Test: 1.48s
+Training epoch 264: Loss=0.001 Acc=99.978 Training_time: 14.01s
+Training time stat of epoch 264: compute=12.954s data=0.852s move=0.205s
+Testing epoch 264: Loss=49.256 Acc=92.560 Testing_time: 1.39s
+Epoch 264: 4124.52s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 265: Loss=0.001 Acc=99.984 Training_time: 13.97s
+Training time stat of epoch 265: compute=12.952s data=0.815s move=0.206s
+Testing epoch 265: Loss=50.564 Acc=92.510 Testing_time: 1.37s
+Epoch 265: 4140.08s
+Total Train: 14.11s, Test: 1.46s
+Training epoch 266: Loss=0.001 Acc=99.966 Training_time: 13.99s
+Training time stat of epoch 266: compute=12.948s data=0.835s move=0.205s
+Testing epoch 266: Loss=51.553 Acc=92.450 Testing_time: 1.37s
+Epoch 266: 4155.65s
+Total Train: 14.13s, Test: 1.44s
+Training epoch 267: Loss=0.001 Acc=99.962 Training_time: 14.00s
+Training time stat of epoch 267: compute=12.956s data=0.838s move=0.206s
+Testing epoch 267: Loss=51.640 Acc=92.440 Testing_time: 1.36s
+Epoch 267: 4171.23s
+Total Train: 14.13s, Test: 1.44s
+Training epoch 268: Loss=0.001 Acc=99.966 Training_time: 13.99s
+Training time stat of epoch 268: compute=12.952s data=0.837s move=0.204s
+Testing epoch 268: Loss=50.006 Acc=92.470 Testing_time: 1.39s
+Epoch 268: 4186.84s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 269: Loss=0.002 Acc=99.928 Training_time: 14.02s
+Training time stat of epoch 269: compute=12.957s data=0.858s move=0.206s
+Testing epoch 269: Loss=50.686 Acc=92.540 Testing_time: 1.40s
+Epoch 269: 4202.48s
+Total Train: 14.16s, Test: 1.49s
+Training epoch 270: Loss=0.002 Acc=99.924 Training_time: 13.98s
+Training time stat of epoch 270: compute=12.955s data=0.824s move=0.205s
+Testing epoch 270: Loss=53.010 Acc=92.060 Testing_time: 1.37s
+Epoch 270: 4218.06s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 271: Loss=0.003 Acc=99.902 Training_time: 14.00s
+Training time stat of epoch 271: compute=12.956s data=0.838s move=0.206s
+Testing epoch 271: Loss=49.765 Acc=92.220 Testing_time: 1.37s
+Epoch 271: 4233.64s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 272: Loss=0.004 Acc=99.876 Training_time: 14.01s
+Training time stat of epoch 272: compute=12.956s data=0.852s move=0.205s
+Testing epoch 272: Loss=51.177 Acc=92.170 Testing_time: 1.38s
+Epoch 272: 4249.25s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 273: Loss=0.007 Acc=99.736 Training_time: 14.00s
+Training time stat of epoch 273: compute=12.955s data=0.837s move=0.205s
+Testing epoch 273: Loss=54.577 Acc=91.720 Testing_time: 1.37s
+Epoch 273: 4264.85s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 274: Loss=0.007 Acc=99.778 Training_time: 14.00s
+Training time stat of epoch 274: compute=12.954s data=0.840s move=0.205s
+Testing epoch 274: Loss=53.935 Acc=91.630 Testing_time: 1.38s
+Epoch 274: 4280.46s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 275: Loss=0.011 Acc=99.662 Training_time: 13.98s
+Training time stat of epoch 275: compute=12.951s data=0.829s move=0.205s
+Testing epoch 275: Loss=51.666 Acc=91.480 Testing_time: 1.37s
+Epoch 275: 4296.03s
+Total Train: 14.12s, Test: 1.45s
+Training epoch 276: Loss=0.012 Acc=99.606 Training_time: 13.99s
+Training time stat of epoch 276: compute=12.958s data=0.831s move=0.205s
+Testing epoch 276: Loss=52.885 Acc=91.040 Testing_time: 1.37s
+Epoch 276: 4311.61s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 277: Loss=0.018 Acc=99.344 Training_time: 14.00s
+Training time stat of epoch 277: compute=12.951s data=0.841s move=0.205s
+Testing epoch 277: Loss=46.793 Acc=91.460 Testing_time: 1.37s
+Epoch 277: 4327.21s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 278: Loss=0.022 Acc=99.264 Training_time: 13.99s
+Training time stat of epoch 278: compute=12.951s data=0.836s move=0.204s
+Testing epoch 278: Loss=47.876 Acc=90.390 Testing_time: 1.39s
+Epoch 278: 4342.80s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 279: Loss=0.022 Acc=99.244 Training_time: 13.98s
+Training time stat of epoch 279: compute=12.955s data=0.821s move=0.206s
+Testing epoch 279: Loss=45.031 Acc=91.280 Testing_time: 1.38s
+Epoch 279: 4358.38s
+Total Train: 14.12s, Test: 1.46s
+Training epoch 280: Loss=0.026 Acc=99.116 Training_time: 14.01s
+Training time stat of epoch 280: compute=12.952s data=0.850s move=0.204s
+Testing epoch 280: Loss=52.789 Acc=89.570 Testing_time: 1.38s
+Epoch 280: 4373.98s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 281: Loss=0.033 Acc=98.918 Training_time: 13.98s
+Training time stat of epoch 281: compute=12.951s data=0.828s move=0.205s
+Testing epoch 281: Loss=43.903 Acc=91.030 Testing_time: 1.38s
+Epoch 281: 4389.56s
+Total Train: 14.12s, Test: 1.46s
+Training epoch 282: Loss=0.038 Acc=98.670 Training_time: 14.00s
+Training time stat of epoch 282: compute=12.954s data=0.845s move=0.205s
+Testing epoch 282: Loss=44.575 Acc=90.310 Testing_time: 1.39s
+Epoch 282: 4405.17s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 283: Loss=0.038 Acc=98.696 Training_time: 13.99s
+Training time stat of epoch 283: compute=12.952s data=0.832s move=0.204s
+Testing epoch 283: Loss=55.082 Acc=88.880 Testing_time: 1.37s
+Epoch 283: 4420.76s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 284: Loss=0.049 Acc=98.370 Training_time: 14.02s
+Training time stat of epoch 284: compute=12.954s data=0.861s move=0.205s
+Testing epoch 284: Loss=44.381 Acc=89.870 Testing_time: 1.37s
+Epoch 284: 4436.37s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 285: Loss=0.046 Acc=98.376 Training_time: 13.99s
+Training time stat of epoch 285: compute=12.950s data=0.831s move=0.205s
+Testing epoch 285: Loss=42.861 Acc=90.160 Testing_time: 1.39s
+Epoch 285: 4451.98s
+Total Train: 14.12s, Test: 1.48s
+Training epoch 286: Loss=0.049 Acc=98.336 Training_time: 13.99s
+Training time stat of epoch 286: compute=12.950s data=0.833s move=0.204s
+Testing epoch 286: Loss=50.103 Acc=89.430 Testing_time: 1.38s
+Epoch 286: 4467.56s
+Total Train: 14.12s, Test: 1.46s
+Training epoch 287: Loss=0.057 Acc=98.096 Training_time: 13.99s
+Training time stat of epoch 287: compute=12.951s data=0.834s move=0.204s
+Testing epoch 287: Loss=47.019 Acc=89.150 Testing_time: 1.38s
+Epoch 287: 4483.15s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 288: Loss=0.058 Acc=98.034 Training_time: 14.01s
+Training time stat of epoch 288: compute=12.958s data=0.846s move=0.205s
+Testing epoch 288: Loss=43.248 Acc=89.830 Testing_time: 1.38s
+Epoch 288: 4498.76s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 289: Loss=0.058 Acc=98.000 Training_time: 14.00s
+Training time stat of epoch 289: compute=12.959s data=0.833s move=0.207s
+Testing epoch 289: Loss=50.433 Acc=89.230 Testing_time: 1.39s
+Epoch 289: 4514.36s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 290: Loss=0.067 Acc=97.720 Training_time: 13.99s
+Training time stat of epoch 290: compute=12.945s data=0.845s move=0.203s
+Testing epoch 290: Loss=52.393 Acc=87.650 Testing_time: 1.37s
+Epoch 290: 4529.95s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 291: Loss=0.062 Acc=97.902 Training_time: 13.97s
+Training time stat of epoch 291: compute=12.946s data=0.818s move=0.204s
+Testing epoch 291: Loss=46.254 Acc=89.740 Testing_time: 1.37s
+Epoch 291: 4545.50s
+Total Train: 14.10s, Test: 1.45s
+Training epoch 292: Loss=0.065 Acc=97.864 Training_time: 13.98s
+Training time stat of epoch 292: compute=12.951s data=0.827s move=0.205s
+Testing epoch 292: Loss=45.372 Acc=90.190 Testing_time: 1.37s
+Epoch 292: 4561.08s
+Total Train: 14.12s, Test: 1.45s
+Training epoch 293: Loss=0.065 Acc=97.718 Training_time: 14.00s
+Training time stat of epoch 293: compute=12.955s data=0.841s move=0.206s
+Testing epoch 293: Loss=46.391 Acc=89.320 Testing_time: 1.36s
+Epoch 293: 4576.66s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 294: Loss=0.066 Acc=97.804 Training_time: 14.02s
+Training time stat of epoch 294: compute=12.955s data=0.856s move=0.205s
+Testing epoch 294: Loss=50.608 Acc=88.450 Testing_time: 1.36s
+Epoch 294: 4592.27s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 295: Loss=0.062 Acc=97.874 Training_time: 13.99s
+Training time stat of epoch 295: compute=12.953s data=0.831s move=0.205s
+Testing epoch 295: Loss=48.967 Acc=89.540 Testing_time: 1.36s
+Epoch 295: 4607.84s
+Total Train: 14.13s, Test: 1.44s
+Training epoch 296: Loss=0.070 Acc=97.626 Training_time: 14.03s
+Training time stat of epoch 296: compute=12.957s data=0.863s move=0.206s
+Testing epoch 296: Loss=40.965 Acc=89.700 Testing_time: 1.36s
+Epoch 296: 4623.44s
+Total Train: 14.16s, Test: 1.44s
+Training epoch 297: Loss=0.064 Acc=97.854 Training_time: 14.00s
+Training time stat of epoch 297: compute=12.953s data=0.841s move=0.206s
+Testing epoch 297: Loss=44.264 Acc=89.560 Testing_time: 1.38s
+Epoch 297: 4639.04s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 298: Loss=0.067 Acc=97.684 Training_time: 14.01s
+Training time stat of epoch 298: compute=12.951s data=0.859s move=0.205s
+Testing epoch 298: Loss=46.427 Acc=89.370 Testing_time: 1.39s
+Epoch 298: 4654.65s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 299: Loss=0.062 Acc=97.872 Training_time: 14.01s
+Training time stat of epoch 299: compute=12.948s data=0.855s move=0.205s
+Testing epoch 299: Loss=46.378 Acc=89.850 Testing_time: 1.35s
+Epoch 299: 4670.24s
+Total Train: 14.15s, Test: 1.44s
+Training epoch 300: Loss=0.065 Acc=97.782 Training_time: 13.98s
+Training time stat of epoch 300: compute=12.954s data=0.825s move=0.205s
+Testing epoch 300: Loss=44.147 Acc=89.710 Testing_time: 1.39s
+Epoch 300: 4685.86s
+Total Train: 14.12s, Test: 1.50s
+Training epoch 301: Loss=0.067 Acc=97.732 Training_time: 14.00s
+Training time stat of epoch 301: compute=12.953s data=0.845s move=0.206s
+Testing epoch 301: Loss=45.963 Acc=89.430 Testing_time: 1.35s
+Epoch 301: 4701.44s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 302: Loss=0.067 Acc=97.690 Training_time: 14.00s
+Training time stat of epoch 302: compute=12.950s data=0.849s move=0.205s
+Testing epoch 302: Loss=46.253 Acc=89.390 Testing_time: 1.37s
+Epoch 302: 4717.02s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 303: Loss=0.062 Acc=97.890 Training_time: 13.95s
+Training time stat of epoch 303: compute=12.946s data=0.802s move=0.204s
+Testing epoch 303: Loss=44.996 Acc=89.330 Testing_time: 1.39s
+Epoch 303: 4732.58s
+Total Train: 14.09s, Test: 1.47s
+Training epoch 304: Loss=0.058 Acc=98.070 Training_time: 13.99s
+Training time stat of epoch 304: compute=12.949s data=0.839s move=0.205s
+Testing epoch 304: Loss=46.915 Acc=89.680 Testing_time: 1.39s
+Epoch 304: 4748.18s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 305: Loss=0.059 Acc=97.988 Training_time: 14.02s
+Training time stat of epoch 305: compute=12.955s data=0.857s move=0.206s
+Testing epoch 305: Loss=45.308 Acc=89.130 Testing_time: 1.37s
+Epoch 305: 4763.79s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 306: Loss=0.056 Acc=98.046 Training_time: 14.01s
+Training time stat of epoch 306: compute=12.954s data=0.844s move=0.207s
+Testing epoch 306: Loss=43.308 Acc=89.910 Testing_time: 1.39s
+Epoch 306: 4779.41s
+Total Train: 14.14s, Test: 1.48s
+Training epoch 307: Loss=0.054 Acc=98.158 Training_time: 13.99s
+Training time stat of epoch 307: compute=12.951s data=0.837s move=0.204s
+Testing epoch 307: Loss=39.795 Acc=90.690 Testing_time: 1.34s
+Epoch 307: 4794.97s
+Total Train: 14.13s, Test: 1.42s
+Training epoch 308: Loss=0.050 Acc=98.370 Training_time: 14.02s
+Training time stat of epoch 308: compute=12.951s data=0.865s move=0.206s
+Testing epoch 308: Loss=44.762 Acc=89.940 Testing_time: 1.41s
+Epoch 308: 4810.62s
+Total Train: 14.16s, Test: 1.49s
+Training epoch 309: Loss=0.049 Acc=98.308 Training_time: 13.98s
+Training time stat of epoch 309: compute=12.953s data=0.825s move=0.205s
+Testing epoch 309: Loss=43.338 Acc=90.520 Testing_time: 1.36s
+Epoch 309: 4826.19s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 310: Loss=0.047 Acc=98.414 Training_time: 14.01s
+Training time stat of epoch 310: compute=12.954s data=0.852s move=0.206s
+Testing epoch 310: Loss=41.297 Acc=89.820 Testing_time: 1.36s
+Epoch 310: 4841.78s
+Total Train: 14.15s, Test: 1.44s
+Training epoch 311: Loss=0.043 Acc=98.498 Training_time: 14.01s
+Training time stat of epoch 311: compute=12.951s data=0.855s move=0.206s
+Testing epoch 311: Loss=47.449 Acc=89.340 Testing_time: 1.38s
+Epoch 311: 4857.39s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 312: Loss=0.042 Acc=98.536 Training_time: 13.99s
+Training time stat of epoch 312: compute=12.948s data=0.841s move=0.202s
+Testing epoch 312: Loss=41.500 Acc=90.620 Testing_time: 1.40s
+Epoch 312: 4873.01s
+Total Train: 14.14s, Test: 1.48s
+Training epoch 313: Loss=0.038 Acc=98.720 Training_time: 13.99s
+Training time stat of epoch 313: compute=12.949s data=0.835s move=0.206s
+Testing epoch 313: Loss=41.085 Acc=90.690 Testing_time: 1.37s
+Epoch 313: 4888.59s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 314: Loss=0.036 Acc=98.756 Training_time: 13.96s
+Training time stat of epoch 314: compute=12.950s data=0.808s move=0.205s
+Testing epoch 314: Loss=48.602 Acc=89.630 Testing_time: 1.40s
+Epoch 314: 4904.17s
+Total Train: 14.10s, Test: 1.48s
+Training epoch 315: Loss=0.032 Acc=98.960 Training_time: 14.02s
+Training time stat of epoch 315: compute=12.955s data=0.860s move=0.206s
+Testing epoch 315: Loss=44.098 Acc=91.270 Testing_time: 1.37s
+Epoch 315: 4919.78s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 316: Loss=0.030 Acc=99.022 Training_time: 13.98s
+Training time stat of epoch 316: compute=12.950s data=0.821s move=0.204s
+Testing epoch 316: Loss=45.713 Acc=90.800 Testing_time: 1.37s
+Epoch 316: 4935.35s
+Total Train: 14.12s, Test: 1.45s
+Training epoch 317: Loss=0.026 Acc=99.150 Training_time: 13.98s
+Training time stat of epoch 317: compute=12.953s data=0.824s move=0.208s
+Testing epoch 317: Loss=49.344 Acc=90.860 Testing_time: 1.38s
+Epoch 317: 4950.94s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 318: Loss=0.026 Acc=99.120 Training_time: 13.99s
+Training time stat of epoch 318: compute=12.948s data=0.833s move=0.204s
+Testing epoch 318: Loss=43.773 Acc=91.030 Testing_time: 1.39s
+Epoch 318: 4966.53s
+Total Train: 14.12s, Test: 1.47s
+Training epoch 319: Loss=0.024 Acc=99.202 Training_time: 13.96s
+Training time stat of epoch 319: compute=12.953s data=0.807s move=0.205s
+Testing epoch 319: Loss=45.062 Acc=91.630 Testing_time: 1.39s
+Epoch 319: 4982.10s
+Total Train: 14.10s, Test: 1.47s
+Training epoch 320: Loss=0.021 Acc=99.270 Training_time: 13.98s
+Training time stat of epoch 320: compute=12.951s data=0.829s move=0.204s
+Testing epoch 320: Loss=46.039 Acc=91.330 Testing_time: 1.37s
+Epoch 320: 4997.67s
+Total Train: 14.12s, Test: 1.45s
+Training epoch 321: Loss=0.019 Acc=99.342 Training_time: 14.01s
+Training time stat of epoch 321: compute=12.960s data=0.846s move=0.207s
+Testing epoch 321: Loss=48.587 Acc=90.880 Testing_time: 1.38s
+Epoch 321: 5013.30s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 322: Loss=0.015 Acc=99.476 Training_time: 14.01s
+Training time stat of epoch 322: compute=12.956s data=0.853s move=0.206s
+Testing epoch 322: Loss=47.365 Acc=90.760 Testing_time: 1.37s
+Epoch 322: 5028.94s
+Total Train: 14.18s, Test: 1.46s
+Training epoch 323: Loss=0.015 Acc=99.482 Training_time: 14.03s
+Training time stat of epoch 323: compute=12.957s data=0.865s move=0.207s
+Testing epoch 323: Loss=46.036 Acc=91.200 Testing_time: 1.37s
+Epoch 323: 5044.57s
+Total Train: 14.18s, Test: 1.46s
+Training epoch 324: Loss=0.012 Acc=99.624 Training_time: 14.00s
+Training time stat of epoch 324: compute=12.950s data=0.844s move=0.204s
+Testing epoch 324: Loss=48.990 Acc=91.390 Testing_time: 1.36s
+Epoch 324: 5060.15s
+Total Train: 14.13s, Test: 1.44s
+Training epoch 325: Loss=0.012 Acc=99.570 Training_time: 14.01s
+Training time stat of epoch 325: compute=12.959s data=0.841s move=0.206s
+Testing epoch 325: Loss=45.056 Acc=91.800 Testing_time: 1.40s
+Epoch 325: 5075.77s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 326: Loss=0.010 Acc=99.654 Training_time: 14.00s
+Training time stat of epoch 326: compute=12.950s data=0.847s move=0.205s
+Testing epoch 326: Loss=44.448 Acc=92.190 Testing_time: 1.38s
+Epoch 326: 5091.38s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 327: Loss=0.008 Acc=99.720 Training_time: 14.04s
+Training time stat of epoch 327: compute=12.952s data=0.880s move=0.206s
+Testing epoch 327: Loss=46.602 Acc=91.950 Testing_time: 1.38s
+Epoch 327: 5107.01s
+Total Train: 14.18s, Test: 1.46s
+Training epoch 328: Loss=0.006 Acc=99.800 Training_time: 14.00s
+Training time stat of epoch 328: compute=12.957s data=0.841s move=0.206s
+Testing epoch 328: Loss=48.408 Acc=91.960 Testing_time: 1.37s
+Epoch 328: 5122.62s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 329: Loss=0.005 Acc=99.848 Training_time: 14.03s
+Training time stat of epoch 329: compute=12.954s data=0.873s move=0.205s
+Testing epoch 329: Loss=49.364 Acc=92.010 Testing_time: 1.37s
+Epoch 329: 5138.23s
+Total Train: 14.17s, Test: 1.44s
+Training epoch 330: Loss=0.003 Acc=99.902 Training_time: 14.00s
+Training time stat of epoch 330: compute=12.955s data=0.837s move=0.205s
+Testing epoch 330: Loss=51.018 Acc=92.020 Testing_time: 1.38s
+Epoch 330: 5153.84s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 331: Loss=0.004 Acc=99.882 Training_time: 14.01s
+Training time stat of epoch 331: compute=12.955s data=0.853s move=0.206s
+Testing epoch 331: Loss=49.789 Acc=92.280 Testing_time: 1.34s
+Epoch 331: 5169.41s
+Total Train: 14.15s, Test: 1.42s
+Training epoch 332: Loss=0.003 Acc=99.904 Training_time: 13.99s
+Training time stat of epoch 332: compute=12.961s data=0.824s move=0.206s
+Testing epoch 332: Loss=52.160 Acc=92.120 Testing_time: 1.35s
+Epoch 332: 5184.97s
+Total Train: 14.13s, Test: 1.44s
+Training epoch 333: Loss=0.003 Acc=99.908 Training_time: 14.00s
+Training time stat of epoch 333: compute=12.958s data=0.835s move=0.207s
+Testing epoch 333: Loss=50.391 Acc=92.190 Testing_time: 1.37s
+Epoch 333: 5200.57s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 334: Loss=0.002 Acc=99.936 Training_time: 13.99s
+Training time stat of epoch 334: compute=12.949s data=0.836s move=0.204s
+Testing epoch 334: Loss=50.796 Acc=92.460 Testing_time: 1.37s
+Epoch 334: 5216.15s
+Total Train: 14.12s, Test: 1.45s
+Training epoch 335: Loss=0.002 Acc=99.950 Training_time: 14.01s
+Training time stat of epoch 335: compute=12.955s data=0.851s move=0.205s
+Testing epoch 335: Loss=50.713 Acc=92.420 Testing_time: 1.38s
+Epoch 335: 5231.75s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 336: Loss=0.001 Acc=99.954 Training_time: 13.98s
+Training time stat of epoch 336: compute=12.951s data=0.828s move=0.204s
+Testing epoch 336: Loss=50.732 Acc=92.400 Testing_time: 1.36s
+Epoch 336: 5247.31s
+Total Train: 14.12s, Test: 1.44s
+Training epoch 337: Loss=0.001 Acc=99.962 Training_time: 13.99s
+Training time stat of epoch 337: compute=12.950s data=0.838s move=0.204s
+Testing epoch 337: Loss=50.018 Acc=92.410 Testing_time: 1.38s
+Epoch 337: 5262.90s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 338: Loss=0.001 Acc=99.956 Training_time: 14.02s
+Training time stat of epoch 338: compute=12.953s data=0.861s move=0.205s
+Testing epoch 338: Loss=50.216 Acc=92.540 Testing_time: 1.37s
+Epoch 338: 5278.51s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 339: Loss=0.001 Acc=99.974 Training_time: 13.99s
+Training time stat of epoch 339: compute=12.955s data=0.829s move=0.206s
+Testing epoch 339: Loss=50.818 Acc=92.400 Testing_time: 1.40s
+Epoch 339: 5294.12s
+Total Train: 14.14s, Test: 1.48s
+Training epoch 340: Loss=0.001 Acc=99.964 Training_time: 13.99s
+Training time stat of epoch 340: compute=12.955s data=0.825s move=0.205s
+Testing epoch 340: Loss=50.100 Acc=92.510 Testing_time: 1.37s
+Epoch 340: 5309.73s
+Total Train: 14.12s, Test: 1.48s
+Training epoch 341: Loss=0.001 Acc=99.984 Training_time: 13.99s
+Training time stat of epoch 341: compute=12.953s data=0.831s move=0.204s
+Testing epoch 341: Loss=50.039 Acc=92.520 Testing_time: 1.36s
+Epoch 341: 5325.30s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 342: Loss=0.001 Acc=99.974 Training_time: 13.98s
+Training time stat of epoch 342: compute=12.950s data=0.824s move=0.203s
+Testing epoch 342: Loss=49.882 Acc=92.640 Testing_time: 1.37s
+Epoch 342: 5340.88s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 343: Loss=0.001 Acc=99.980 Training_time: 14.02s
+Training time stat of epoch 343: compute=12.956s data=0.854s move=0.206s
+Testing epoch 343: Loss=49.789 Acc=92.690 Testing_time: 1.39s
+Epoch 343: 5356.54s
+Total Train: 14.18s, Test: 1.47s
+Training epoch 344: Loss=0.001 Acc=99.976 Training_time: 14.00s
+Training time stat of epoch 344: compute=12.954s data=0.839s move=0.205s
+Testing epoch 344: Loss=50.297 Acc=92.600 Testing_time: 1.35s
+Epoch 344: 5372.10s
+Total Train: 14.14s, Test: 1.43s
+Training epoch 345: Loss=0.001 Acc=99.994 Training_time: 14.02s
+Training time stat of epoch 345: compute=12.953s data=0.865s move=0.206s
+Testing epoch 345: Loss=49.867 Acc=92.690 Testing_time: 1.37s
+Epoch 345: 5387.71s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 346: Loss=0.001 Acc=99.976 Training_time: 14.00s
+Training time stat of epoch 346: compute=12.949s data=0.849s move=0.205s
+Testing epoch 346: Loss=49.680 Acc=92.690 Testing_time: 1.37s
+Epoch 346: 5403.31s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 347: Loss=0.001 Acc=99.974 Training_time: 14.00s
+Training time stat of epoch 347: compute=12.956s data=0.835s move=0.205s
+Testing epoch 347: Loss=50.445 Acc=92.610 Testing_time: 1.41s
+Epoch 347: 5418.95s
+Total Train: 14.14s, Test: 1.50s
+Training epoch 348: Loss=0.001 Acc=99.982 Training_time: 14.00s
+Training time stat of epoch 348: compute=12.954s data=0.837s move=0.204s
+Testing epoch 348: Loss=49.859 Acc=92.640 Testing_time: 1.39s
+Epoch 348: 5434.56s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 349: Loss=0.000 Acc=99.992 Training_time: 14.02s
+Training time stat of epoch 349: compute=12.959s data=0.858s move=0.207s
+Testing epoch 349: Loss=49.600 Acc=92.670 Testing_time: 1.40s
+Epoch 349: 5450.21s
+Total Train: 14.17s, Test: 1.48s
+Training epoch 350: Loss=0.001 Acc=99.986 Training_time: 14.00s
+Training time stat of epoch 350: compute=12.951s data=0.841s move=0.204s
+Testing epoch 350: Loss=50.162 Acc=92.720 Testing_time: 1.37s
+Epoch 350: 5465.80s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 351: Loss=0.001 Acc=99.988 Training_time: 14.01s
+Training time stat of epoch 351: compute=12.955s data=0.846s move=0.207s
+Testing epoch 351: Loss=49.849 Acc=92.660 Testing_time: 1.38s
+Epoch 351: 5481.40s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 352: Loss=0.001 Acc=99.982 Training_time: 14.01s
+Training time stat of epoch 352: compute=12.948s data=0.860s move=0.205s
+Testing epoch 352: Loss=50.102 Acc=92.700 Testing_time: 1.37s
+Epoch 352: 5497.00s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 353: Loss=0.001 Acc=99.972 Training_time: 14.04s
+Training time stat of epoch 353: compute=12.952s data=0.879s move=0.206s
+Testing epoch 353: Loss=50.053 Acc=92.760 Testing_time: 1.38s
+Epoch 353: 5512.64s
+Total Train: 14.18s, Test: 1.46s
+Training epoch 354: Loss=0.001 Acc=99.990 Training_time: 13.98s
+Training time stat of epoch 354: compute=12.955s data=0.818s move=0.204s
+Testing epoch 354: Loss=49.463 Acc=92.720 Testing_time: 1.36s
+Epoch 354: 5528.20s
+Total Train: 14.11s, Test: 1.44s
+Training epoch 355: Loss=0.000 Acc=99.996 Training_time: 13.98s
+Training time stat of epoch 355: compute=12.951s data=0.822s move=0.205s
+Testing epoch 355: Loss=49.997 Acc=92.630 Testing_time: 1.37s
+Epoch 355: 5543.76s
+Total Train: 14.11s, Test: 1.45s
+Training epoch 356: Loss=0.001 Acc=99.982 Training_time: 13.95s
+Training time stat of epoch 356: compute=12.953s data=0.797s move=0.204s
+Testing epoch 356: Loss=49.792 Acc=92.690 Testing_time: 1.39s
+Epoch 356: 5559.31s
+Total Train: 14.09s, Test: 1.46s
+Training epoch 357: Loss=0.001 Acc=99.988 Training_time: 14.01s
+Training time stat of epoch 357: compute=12.953s data=0.854s move=0.205s
+Testing epoch 357: Loss=49.777 Acc=92.700 Testing_time: 1.39s
+Epoch 357: 5574.94s
+Total Train: 14.16s, Test: 1.47s
+Training epoch 358: Loss=0.001 Acc=99.982 Training_time: 14.02s
+Training time stat of epoch 358: compute=12.953s data=0.861s move=0.205s
+Testing epoch 358: Loss=50.021 Acc=92.680 Testing_time: 1.38s
+Epoch 358: 5590.58s
+Total Train: 14.16s, Test: 1.48s
+Training epoch 359: Loss=0.001 Acc=99.988 Training_time: 13.98s
+Training time stat of epoch 359: compute=12.951s data=0.820s move=0.205s
+Testing epoch 359: Loss=50.102 Acc=92.750 Testing_time: 1.38s
+Epoch 359: 5606.15s
+Total Train: 14.11s, Test: 1.46s
+Training epoch 360: Loss=0.001 Acc=99.982 Training_time: 13.98s
+Training time stat of epoch 360: compute=12.953s data=0.826s move=0.205s
+Testing epoch 360: Loss=50.242 Acc=92.690 Testing_time: 1.36s
+Epoch 360: 5621.71s
+Total Train: 14.12s, Test: 1.44s
+Training epoch 361: Loss=0.001 Acc=99.982 Training_time: 13.99s
+Training time stat of epoch 361: compute=12.956s data=0.833s move=0.205s
+Testing epoch 361: Loss=50.530 Acc=92.740 Testing_time: 1.38s
+Epoch 361: 5637.30s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 362: Loss=0.000 Acc=99.986 Training_time: 14.00s
+Training time stat of epoch 362: compute=12.956s data=0.834s move=0.205s
+Testing epoch 362: Loss=50.831 Acc=92.680 Testing_time: 1.38s
+Epoch 362: 5652.90s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 363: Loss=0.001 Acc=99.978 Training_time: 14.01s
+Training time stat of epoch 363: compute=12.951s data=0.856s move=0.205s
+Testing epoch 363: Loss=50.055 Acc=92.590 Testing_time: 1.38s
+Epoch 363: 5668.53s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 364: Loss=0.001 Acc=99.980 Training_time: 14.00s
+Training time stat of epoch 364: compute=12.952s data=0.844s move=0.205s
+Testing epoch 364: Loss=50.780 Acc=92.550 Testing_time: 1.37s
+Epoch 364: 5684.12s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 365: Loss=0.001 Acc=99.990 Training_time: 13.99s
+Training time stat of epoch 365: compute=12.957s data=0.831s move=0.206s
+Testing epoch 365: Loss=51.076 Acc=92.540 Testing_time: 1.38s
+Epoch 365: 5699.72s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 366: Loss=0.001 Acc=99.982 Training_time: 14.00s
+Training time stat of epoch 366: compute=12.955s data=0.845s move=0.205s
+Testing epoch 366: Loss=51.110 Acc=92.580 Testing_time: 1.37s
+Epoch 366: 5715.32s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 367: Loss=0.001 Acc=99.964 Training_time: 14.03s
+Training time stat of epoch 367: compute=12.957s data=0.867s move=0.206s
+Testing epoch 367: Loss=50.975 Acc=92.660 Testing_time: 1.39s
+Epoch 367: 5730.99s
+Total Train: 14.20s, Test: 1.47s
+Training epoch 368: Loss=0.001 Acc=99.972 Training_time: 13.99s
+Training time stat of epoch 368: compute=12.950s data=0.840s move=0.204s
+Testing epoch 368: Loss=51.442 Acc=92.480 Testing_time: 1.37s
+Epoch 368: 5746.59s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 369: Loss=0.001 Acc=99.984 Training_time: 13.96s
+Training time stat of epoch 369: compute=12.949s data=0.806s move=0.204s
+Testing epoch 369: Loss=51.377 Acc=92.520 Testing_time: 1.36s
+Epoch 369: 5762.15s
+Total Train: 14.10s, Test: 1.46s
+Training epoch 370: Loss=0.001 Acc=99.968 Training_time: 14.02s
+Training time stat of epoch 370: compute=12.953s data=0.857s move=0.205s
+Testing epoch 370: Loss=52.231 Acc=92.390 Testing_time: 1.36s
+Epoch 370: 5777.75s
+Total Train: 14.16s, Test: 1.44s
+Training epoch 371: Loss=0.002 Acc=99.936 Training_time: 13.99s
+Training time stat of epoch 371: compute=12.948s data=0.841s move=0.205s
+Testing epoch 371: Loss=52.018 Acc=92.210 Testing_time: 1.37s
+Epoch 371: 5793.36s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 372: Loss=0.002 Acc=99.918 Training_time: 13.97s
+Training time stat of epoch 372: compute=12.949s data=0.821s move=0.203s
+Testing epoch 372: Loss=51.829 Acc=92.310 Testing_time: 1.37s
+Epoch 372: 5808.93s
+Total Train: 14.11s, Test: 1.46s
+Training epoch 373: Loss=0.003 Acc=99.890 Training_time: 13.98s
+Training time stat of epoch 373: compute=12.953s data=0.826s move=0.205s
+Testing epoch 373: Loss=53.265 Acc=92.110 Testing_time: 1.37s
+Epoch 373: 5824.51s
+Total Train: 14.12s, Test: 1.46s
+Training epoch 374: Loss=0.005 Acc=99.846 Training_time: 14.00s
+Training time stat of epoch 374: compute=12.956s data=0.833s move=0.207s
+Testing epoch 374: Loss=51.525 Acc=92.200 Testing_time: 1.38s
+Epoch 374: 5840.10s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 375: Loss=0.007 Acc=99.768 Training_time: 14.04s
+Training time stat of epoch 375: compute=12.950s data=0.884s move=0.205s
+Testing epoch 375: Loss=52.257 Acc=91.580 Testing_time: 1.36s
+Epoch 375: 5855.73s
+Total Train: 14.18s, Test: 1.44s
+Training epoch 376: Loss=0.009 Acc=99.692 Training_time: 14.00s
+Training time stat of epoch 376: compute=12.951s data=0.844s move=0.204s
+Testing epoch 376: Loss=47.962 Acc=91.870 Testing_time: 1.39s
+Epoch 376: 5871.33s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 377: Loss=0.012 Acc=99.594 Training_time: 14.02s
+Training time stat of epoch 377: compute=12.948s data=0.865s move=0.205s
+Testing epoch 377: Loss=49.837 Acc=91.400 Testing_time: 1.37s
+Epoch 377: 5886.96s
+Total Train: 14.15s, Test: 1.48s
+Training epoch 378: Loss=0.017 Acc=99.440 Training_time: 14.01s
+Training time stat of epoch 378: compute=12.951s data=0.850s move=0.204s
+Testing epoch 378: Loss=45.154 Acc=91.230 Testing_time: 1.38s
+Epoch 378: 5902.58s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 379: Loss=0.014 Acc=99.516 Training_time: 14.00s
+Training time stat of epoch 379: compute=12.952s data=0.844s move=0.206s
+Testing epoch 379: Loss=50.769 Acc=91.400 Testing_time: 1.37s
+Epoch 379: 5918.18s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 380: Loss=0.025 Acc=99.152 Training_time: 14.03s
+Training time stat of epoch 380: compute=12.953s data=0.874s move=0.206s
+Testing epoch 380: Loss=46.177 Acc=91.180 Testing_time: 1.38s
+Epoch 380: 5933.82s
+Total Train: 14.17s, Test: 1.47s
+Training epoch 381: Loss=0.026 Acc=99.106 Training_time: 13.99s
+Training time stat of epoch 381: compute=12.954s data=0.830s move=0.204s
+Testing epoch 381: Loss=46.563 Acc=90.560 Testing_time: 1.37s
+Epoch 381: 5949.41s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 382: Loss=0.026 Acc=99.140 Training_time: 13.96s
+Training time stat of epoch 382: compute=12.951s data=0.801s move=0.203s
+Testing epoch 382: Loss=45.774 Acc=90.720 Testing_time: 1.39s
+Epoch 382: 5964.97s
+Total Train: 14.10s, Test: 1.47s
+Training epoch 383: Loss=0.029 Acc=99.028 Training_time: 14.01s
+Training time stat of epoch 383: compute=12.955s data=0.848s move=0.206s
+Testing epoch 383: Loss=45.664 Acc=90.400 Testing_time: 1.39s
+Epoch 383: 5980.60s
+Total Train: 14.15s, Test: 1.48s
+Training epoch 384: Loss=0.038 Acc=98.688 Training_time: 13.99s
+Training time stat of epoch 384: compute=12.953s data=0.829s move=0.205s
+Testing epoch 384: Loss=48.516 Acc=89.970 Testing_time: 1.38s
+Epoch 384: 5996.19s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 385: Loss=0.044 Acc=98.464 Training_time: 13.99s
+Training time stat of epoch 385: compute=12.952s data=0.832s move=0.205s
+Testing epoch 385: Loss=45.568 Acc=90.450 Testing_time: 1.39s
+Epoch 385: 6011.79s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 386: Loss=0.050 Acc=98.330 Training_time: 14.00s
+Training time stat of epoch 386: compute=12.948s data=0.854s move=0.203s
+Testing epoch 386: Loss=45.587 Acc=89.700 Testing_time: 1.38s
+Epoch 386: 6027.40s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 387: Loss=0.048 Acc=98.338 Training_time: 13.96s
+Training time stat of epoch 387: compute=12.950s data=0.805s move=0.205s
+Testing epoch 387: Loss=41.258 Acc=90.550 Testing_time: 1.40s
+Epoch 387: 6042.99s
+Total Train: 14.10s, Test: 1.48s
+Training epoch 388: Loss=0.053 Acc=98.168 Training_time: 13.99s
+Training time stat of epoch 388: compute=12.957s data=0.829s move=0.205s
+Testing epoch 388: Loss=43.522 Acc=90.170 Testing_time: 1.37s
+Epoch 388: 6058.59s
+Total Train: 14.13s, Test: 1.48s
+Training epoch 389: Loss=0.052 Acc=98.220 Training_time: 13.98s
+Training time stat of epoch 389: compute=12.956s data=0.822s move=0.206s
+Testing epoch 389: Loss=41.894 Acc=89.770 Testing_time: 1.34s
+Epoch 389: 6074.15s
+Total Train: 14.12s, Test: 1.43s
+Training epoch 390: Loss=0.052 Acc=98.194 Training_time: 14.01s
+Training time stat of epoch 390: compute=12.951s data=0.850s move=0.205s
+Testing epoch 390: Loss=38.997 Acc=90.990 Testing_time: 1.37s
+Epoch 390: 6089.77s
+Total Train: 14.14s, Test: 1.48s
+Training epoch 391: Loss=0.056 Acc=98.088 Training_time: 13.98s
+Training time stat of epoch 391: compute=12.954s data=0.825s move=0.206s
+Testing epoch 391: Loss=42.760 Acc=90.140 Testing_time: 1.37s
+Epoch 391: 6105.35s
+Total Train: 14.12s, Test: 1.46s
+Training epoch 392: Loss=0.062 Acc=97.932 Training_time: 14.00s
+Training time stat of epoch 392: compute=12.954s data=0.844s move=0.205s
+Testing epoch 392: Loss=43.934 Acc=89.720 Testing_time: 1.39s
+Epoch 392: 6120.96s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 393: Loss=0.060 Acc=97.962 Training_time: 13.99s
+Training time stat of epoch 393: compute=12.961s data=0.825s move=0.207s
+Testing epoch 393: Loss=49.555 Acc=89.170 Testing_time: 1.36s
+Epoch 393: 6136.53s
+Total Train: 14.13s, Test: 1.44s
+Training epoch 394: Loss=0.062 Acc=97.842 Training_time: 14.00s
+Training time stat of epoch 394: compute=12.953s data=0.840s move=0.207s
+Testing epoch 394: Loss=43.633 Acc=89.800 Testing_time: 1.39s
+Epoch 394: 6152.13s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 395: Loss=0.063 Acc=97.886 Training_time: 13.97s
+Training time stat of epoch 395: compute=12.948s data=0.820s move=0.204s
+Testing epoch 395: Loss=48.396 Acc=88.360 Testing_time: 1.36s
+Epoch 395: 6167.68s
+Total Train: 14.11s, Test: 1.44s
+Training epoch 396: Loss=0.065 Acc=97.724 Training_time: 13.97s
+Training time stat of epoch 396: compute=12.950s data=0.814s move=0.203s
+Testing epoch 396: Loss=45.759 Acc=89.080 Testing_time: 1.37s
+Epoch 396: 6183.24s
+Total Train: 14.11s, Test: 1.45s
+Training epoch 397: Loss=0.058 Acc=98.084 Training_time: 13.99s
+Training time stat of epoch 397: compute=12.953s data=0.837s move=0.205s
+Testing epoch 397: Loss=46.937 Acc=89.200 Testing_time: 1.39s
+Epoch 397: 6198.84s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 398: Loss=0.058 Acc=98.016 Training_time: 14.01s
+Training time stat of epoch 398: compute=12.956s data=0.844s move=0.206s
+Testing epoch 398: Loss=50.896 Acc=88.710 Testing_time: 1.41s
+Epoch 398: 6214.47s
+Total Train: 14.14s, Test: 1.49s
+Training epoch 399: Loss=0.061 Acc=97.936 Training_time: 13.98s
+Training time stat of epoch 399: compute=12.953s data=0.818s move=0.206s
+Testing epoch 399: Loss=45.711 Acc=89.780 Testing_time: 1.39s
+Epoch 399: 6230.08s
+Total Train: 14.12s, Test: 1.48s
+Training epoch 400: Loss=0.061 Acc=97.878 Training_time: 14.01s
+Training time stat of epoch 400: compute=12.953s data=0.856s move=0.205s
+Testing epoch 400: Loss=46.123 Acc=89.250 Testing_time: 1.36s
+Epoch 400: 6245.71s
+Total Train: 14.15s, Test: 1.48s
+Training epoch 401: Loss=0.059 Acc=98.022 Training_time: 14.05s
+Training time stat of epoch 401: compute=12.958s data=0.879s move=0.208s
+Testing epoch 401: Loss=44.971 Acc=89.890 Testing_time: 1.37s
+Epoch 401: 6261.35s
+Total Train: 14.18s, Test: 1.46s
+Training epoch 402: Loss=0.051 Acc=98.264 Training_time: 14.01s
+Training time stat of epoch 402: compute=12.954s data=0.854s move=0.204s
+Testing epoch 402: Loss=46.701 Acc=90.020 Testing_time: 1.40s
+Epoch 402: 6276.98s
+Total Train: 14.15s, Test: 1.48s
+Training epoch 403: Loss=0.058 Acc=98.022 Training_time: 14.01s
+Training time stat of epoch 403: compute=12.955s data=0.844s move=0.207s
+Testing epoch 403: Loss=47.263 Acc=89.800 Testing_time: 1.36s
+Epoch 403: 6292.59s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 404: Loss=0.053 Acc=98.218 Training_time: 13.97s
+Training time stat of epoch 404: compute=12.955s data=0.810s move=0.204s
+Testing epoch 404: Loss=43.823 Acc=90.220 Testing_time: 1.37s
+Epoch 404: 6308.15s
+Total Train: 14.11s, Test: 1.45s
+Training epoch 405: Loss=0.052 Acc=98.210 Training_time: 14.00s
+Training time stat of epoch 405: compute=12.956s data=0.835s move=0.206s
+Testing epoch 405: Loss=46.825 Acc=89.660 Testing_time: 1.38s
+Epoch 405: 6323.75s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 406: Loss=0.051 Acc=98.276 Training_time: 14.01s
+Training time stat of epoch 406: compute=12.954s data=0.847s move=0.205s
+Testing epoch 406: Loss=45.895 Acc=89.870 Testing_time: 1.38s
+Epoch 406: 6339.36s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 407: Loss=0.049 Acc=98.302 Training_time: 14.00s
+Training time stat of epoch 407: compute=12.954s data=0.836s move=0.206s
+Testing epoch 407: Loss=52.108 Acc=88.550 Testing_time: 1.35s
+Epoch 407: 6354.92s
+Total Train: 14.13s, Test: 1.43s
+Training epoch 408: Loss=0.048 Acc=98.368 Training_time: 14.02s
+Training time stat of epoch 408: compute=12.956s data=0.858s move=0.205s
+Testing epoch 408: Loss=47.566 Acc=89.370 Testing_time: 1.38s
+Epoch 408: 6370.54s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 409: Loss=0.045 Acc=98.412 Training_time: 13.99s
+Training time stat of epoch 409: compute=12.950s data=0.834s move=0.204s
+Testing epoch 409: Loss=41.722 Acc=90.880 Testing_time: 1.38s
+Epoch 409: 6386.13s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 410: Loss=0.043 Acc=98.550 Training_time: 14.02s
+Training time stat of epoch 410: compute=12.961s data=0.858s move=0.204s
+Testing epoch 410: Loss=44.169 Acc=90.280 Testing_time: 1.39s
+Epoch 410: 6401.76s
+Total Train: 14.16s, Test: 1.47s
+Training epoch 411: Loss=0.039 Acc=98.650 Training_time: 13.98s
+Training time stat of epoch 411: compute=12.954s data=0.820s move=0.205s
+Testing epoch 411: Loss=42.294 Acc=90.230 Testing_time: 1.39s
+Epoch 411: 6417.35s
+Total Train: 14.12s, Test: 1.47s
+Training epoch 412: Loss=0.035 Acc=98.866 Training_time: 14.01s
+Training time stat of epoch 412: compute=12.954s data=0.850s move=0.205s
+Testing epoch 412: Loss=44.491 Acc=90.680 Testing_time: 1.40s
+Epoch 412: 6433.02s
+Total Train: 14.16s, Test: 1.51s
+Training epoch 413: Loss=0.034 Acc=98.894 Training_time: 14.00s
+Training time stat of epoch 413: compute=12.954s data=0.842s move=0.206s
+Testing epoch 413: Loss=41.808 Acc=91.400 Testing_time: 1.36s
+Epoch 413: 6448.61s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 414: Loss=0.030 Acc=98.964 Training_time: 13.97s
+Training time stat of epoch 414: compute=12.953s data=0.810s move=0.205s
+Testing epoch 414: Loss=45.481 Acc=90.770 Testing_time: 1.38s
+Epoch 414: 6464.19s
+Total Train: 14.11s, Test: 1.46s
+Training epoch 415: Loss=0.029 Acc=99.014 Training_time: 13.98s
+Training time stat of epoch 415: compute=12.948s data=0.822s move=0.205s
+Testing epoch 415: Loss=43.481 Acc=90.810 Testing_time: 1.37s
+Epoch 415: 6479.77s
+Total Train: 14.12s, Test: 1.47s
+Training epoch 416: Loss=0.026 Acc=99.142 Training_time: 14.00s
+Training time stat of epoch 416: compute=12.951s data=0.844s move=0.204s
+Testing epoch 416: Loss=45.036 Acc=91.020 Testing_time: 1.37s
+Epoch 416: 6495.36s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 417: Loss=0.024 Acc=99.198 Training_time: 13.97s
+Training time stat of epoch 417: compute=12.953s data=0.814s move=0.205s
+Testing epoch 417: Loss=43.819 Acc=91.340 Testing_time: 1.37s
+Epoch 417: 6510.92s
+Total Train: 14.11s, Test: 1.46s
+Training epoch 418: Loss=0.023 Acc=99.228 Training_time: 13.98s
+Training time stat of epoch 418: compute=12.952s data=0.826s move=0.204s
+Testing epoch 418: Loss=45.958 Acc=91.120 Testing_time: 1.39s
+Epoch 418: 6526.51s
+Total Train: 14.12s, Test: 1.47s
+Training epoch 419: Loss=0.019 Acc=99.310 Training_time: 14.01s
+Training time stat of epoch 419: compute=12.951s data=0.852s move=0.205s
+Testing epoch 419: Loss=49.585 Acc=91.020 Testing_time: 1.38s
+Epoch 419: 6542.15s
+Total Train: 14.18s, Test: 1.46s
+Training epoch 420: Loss=0.018 Acc=99.328 Training_time: 13.99s
+Training time stat of epoch 420: compute=12.951s data=0.836s move=0.205s
+Testing epoch 420: Loss=48.948 Acc=91.420 Testing_time: 1.39s
+Epoch 420: 6557.76s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 421: Loss=0.018 Acc=99.390 Training_time: 14.01s
+Training time stat of epoch 421: compute=12.954s data=0.851s move=0.206s
+Testing epoch 421: Loss=48.306 Acc=91.140 Testing_time: 1.37s
+Epoch 421: 6573.37s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 422: Loss=0.014 Acc=99.532 Training_time: 14.00s
+Training time stat of epoch 422: compute=12.954s data=0.844s move=0.205s
+Testing epoch 422: Loss=48.585 Acc=91.240 Testing_time: 1.38s
+Epoch 422: 6588.97s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 423: Loss=0.013 Acc=99.558 Training_time: 14.00s
+Training time stat of epoch 423: compute=12.949s data=0.849s move=0.204s
+Testing epoch 423: Loss=45.662 Acc=91.630 Testing_time: 1.38s
+Epoch 423: 6604.58s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 424: Loss=0.013 Acc=99.566 Training_time: 14.01s
+Training time stat of epoch 424: compute=12.953s data=0.856s move=0.205s
+Testing epoch 424: Loss=42.578 Acc=91.830 Testing_time: 1.36s
+Epoch 424: 6620.17s
+Total Train: 14.16s, Test: 1.44s
+Training epoch 425: Loss=0.008 Acc=99.732 Training_time: 14.01s
+Training time stat of epoch 425: compute=12.960s data=0.839s move=0.207s
+Testing epoch 425: Loss=46.077 Acc=91.810 Testing_time: 1.40s
+Epoch 425: 6635.80s
+Total Train: 14.14s, Test: 1.49s
+Training epoch 426: Loss=0.009 Acc=99.686 Training_time: 13.99s
+Training time stat of epoch 426: compute=12.949s data=0.838s move=0.204s
+Testing epoch 426: Loss=46.744 Acc=92.000 Testing_time: 1.38s
+Epoch 426: 6651.39s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 427: Loss=0.005 Acc=99.808 Training_time: 13.97s
+Training time stat of epoch 427: compute=12.952s data=0.816s move=0.205s
+Testing epoch 427: Loss=43.584 Acc=92.180 Testing_time: 1.39s
+Epoch 427: 6666.98s
+Total Train: 14.11s, Test: 1.47s
+Training epoch 428: Loss=0.004 Acc=99.876 Training_time: 14.00s
+Training time stat of epoch 428: compute=12.947s data=0.843s move=0.205s
+Testing epoch 428: Loss=43.851 Acc=92.430 Testing_time: 1.40s
+Epoch 428: 6682.59s
+Total Train: 14.13s, Test: 1.48s
+Training epoch 429: Loss=0.004 Acc=99.870 Training_time: 14.00s
+Training time stat of epoch 429: compute=12.950s data=0.846s move=0.205s
+Testing epoch 429: Loss=46.640 Acc=92.070 Testing_time: 1.36s
+Epoch 429: 6698.18s
+Total Train: 14.15s, Test: 1.44s
+Training epoch 430: Loss=0.002 Acc=99.928 Training_time: 13.99s
+Training time stat of epoch 430: compute=12.949s data=0.838s move=0.204s
+Testing epoch 430: Loss=43.957 Acc=92.620 Testing_time: 1.39s
+Epoch 430: 6713.78s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 431: Loss=0.003 Acc=99.918 Training_time: 14.01s
+Training time stat of epoch 431: compute=12.947s data=0.856s move=0.205s
+Testing epoch 431: Loss=44.813 Acc=92.490 Testing_time: 1.38s
+Epoch 431: 6729.39s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 432: Loss=0.002 Acc=99.912 Training_time: 14.01s
+Training time stat of epoch 432: compute=12.955s data=0.846s move=0.206s
+Testing epoch 432: Loss=44.390 Acc=92.610 Testing_time: 1.36s
+Epoch 432: 6744.99s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 433: Loss=0.002 Acc=99.924 Training_time: 13.96s
+Training time stat of epoch 433: compute=12.948s data=0.805s move=0.203s
+Testing epoch 433: Loss=45.397 Acc=92.510 Testing_time: 1.38s
+Epoch 433: 6760.54s
+Total Train: 14.09s, Test: 1.46s
+Training epoch 434: Loss=0.002 Acc=99.922 Training_time: 14.01s
+Training time stat of epoch 434: compute=12.953s data=0.854s move=0.206s
+Testing epoch 434: Loss=45.380 Acc=92.380 Testing_time: 1.37s
+Epoch 434: 6776.15s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 435: Loss=0.001 Acc=99.964 Training_time: 14.02s
+Training time stat of epoch 435: compute=12.949s data=0.869s move=0.206s
+Testing epoch 435: Loss=46.146 Acc=92.740 Testing_time: 1.39s
+Epoch 435: 6791.77s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 436: Loss=0.001 Acc=99.964 Training_time: 14.02s
+Training time stat of epoch 436: compute=12.950s data=0.862s move=0.205s
+Testing epoch 436: Loss=46.182 Acc=92.550 Testing_time: 1.37s
+Epoch 436: 6807.39s
+Total Train: 14.17s, Test: 1.45s
+Training epoch 437: Loss=0.001 Acc=99.970 Training_time: 14.00s
+Training time stat of epoch 437: compute=12.955s data=0.836s move=0.206s
+Testing epoch 437: Loss=45.457 Acc=92.630 Testing_time: 1.39s
+Epoch 437: 6822.99s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 438: Loss=0.001 Acc=99.980 Training_time: 14.03s
+Training time stat of epoch 438: compute=12.955s data=0.869s move=0.205s
+Testing epoch 438: Loss=45.534 Acc=92.630 Testing_time: 1.34s
+Epoch 438: 6838.58s
+Total Train: 14.17s, Test: 1.42s
+Training epoch 439: Loss=0.001 Acc=99.986 Training_time: 14.02s
+Training time stat of epoch 439: compute=12.959s data=0.852s move=0.206s
+Testing epoch 439: Loss=45.936 Acc=92.780 Testing_time: 1.38s
+Epoch 439: 6854.20s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 440: Loss=0.001 Acc=99.984 Training_time: 13.98s
+Training time stat of epoch 440: compute=12.942s data=0.836s move=0.204s
+Testing epoch 440: Loss=45.475 Acc=92.810 Testing_time: 1.37s
+Epoch 440: 6869.77s
+Total Train: 14.12s, Test: 1.45s
+Training epoch 441: Loss=0.001 Acc=99.986 Training_time: 14.01s
+Training time stat of epoch 441: compute=12.949s data=0.861s move=0.205s
+Testing epoch 441: Loss=46.179 Acc=92.710 Testing_time: 1.36s
+Epoch 441: 6885.38s
+Total Train: 14.17s, Test: 1.45s
+Training epoch 442: Loss=0.001 Acc=99.986 Training_time: 13.99s
+Training time stat of epoch 442: compute=12.950s data=0.838s move=0.204s
+Testing epoch 442: Loss=45.806 Acc=92.830 Testing_time: 1.37s
+Epoch 442: 6900.98s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 443: Loss=0.001 Acc=99.986 Training_time: 14.00s
+Training time stat of epoch 443: compute=12.951s data=0.846s move=0.205s
+Testing epoch 443: Loss=45.810 Acc=92.760 Testing_time: 1.39s
+Epoch 443: 6916.59s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 444: Loss=0.001 Acc=99.984 Training_time: 13.99s
+Training time stat of epoch 444: compute=12.954s data=0.830s move=0.207s
+Testing epoch 444: Loss=45.523 Acc=92.940 Testing_time: 1.38s
+Epoch 444: 6932.17s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 445: Loss=0.001 Acc=99.986 Training_time: 14.02s
+Training time stat of epoch 445: compute=12.953s data=0.861s move=0.206s
+Testing epoch 445: Loss=45.148 Acc=92.840 Testing_time: 1.37s
+Epoch 445: 6947.79s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 446: Loss=0.000 Acc=99.988 Training_time: 14.00s
+Training time stat of epoch 446: compute=12.947s data=0.845s move=0.204s
+Testing epoch 446: Loss=45.457 Acc=92.810 Testing_time: 1.39s
+Epoch 446: 6963.39s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 447: Loss=0.001 Acc=99.984 Training_time: 14.00s
+Training time stat of epoch 447: compute=12.949s data=0.850s move=0.205s
+Testing epoch 447: Loss=45.432 Acc=92.860 Testing_time: 1.37s
+Epoch 447: 6978.97s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 448: Loss=0.000 Acc=99.990 Training_time: 14.00s
+Training time stat of epoch 448: compute=12.951s data=0.841s move=0.204s
+Testing epoch 448: Loss=45.894 Acc=92.790 Testing_time: 1.39s
+Epoch 448: 6994.57s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 449: Loss=0.000 Acc=99.988 Training_time: 14.01s
+Training time stat of epoch 449: compute=12.956s data=0.844s move=0.206s
+Testing epoch 449: Loss=45.633 Acc=92.910 Testing_time: 1.37s
+Epoch 449: 7010.16s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 450: Loss=0.000 Acc=99.984 Training_time: 14.03s
+Training time stat of epoch 450: compute=12.951s data=0.871s move=0.205s
+Testing epoch 450: Loss=45.401 Acc=92.890 Testing_time: 1.38s
+Epoch 450: 7025.78s
+Total Train: 14.17s, Test: 1.45s
+Training epoch 451: Loss=0.000 Acc=99.990 Training_time: 14.01s
+Training time stat of epoch 451: compute=12.957s data=0.843s move=0.207s
+Testing epoch 451: Loss=45.769 Acc=92.880 Testing_time: 1.37s
+Epoch 451: 7041.39s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 452: Loss=0.000 Acc=99.986 Training_time: 13.97s
+Training time stat of epoch 452: compute=12.947s data=0.816s move=0.203s
+Testing epoch 452: Loss=45.227 Acc=92.900 Testing_time: 1.38s
+Epoch 452: 7056.99s
+Total Train: 14.11s, Test: 1.49s
+Training epoch 453: Loss=0.000 Acc=99.986 Training_time: 13.98s
+Training time stat of epoch 453: compute=12.956s data=0.816s move=0.206s
+Testing epoch 453: Loss=45.026 Acc=92.890 Testing_time: 1.41s
+Epoch 453: 7072.59s
+Total Train: 14.12s, Test: 1.49s
+Training epoch 454: Loss=0.000 Acc=99.988 Training_time: 13.98s
+Training time stat of epoch 454: compute=12.951s data=0.820s move=0.205s
+Testing epoch 454: Loss=45.964 Acc=92.790 Testing_time: 1.40s
+Epoch 454: 7088.19s
+Total Train: 14.11s, Test: 1.48s
+Training epoch 455: Loss=0.000 Acc=99.986 Training_time: 14.00s
+Training time stat of epoch 455: compute=12.954s data=0.842s move=0.207s
+Testing epoch 455: Loss=45.150 Acc=92.860 Testing_time: 1.35s
+Epoch 455: 7103.76s
+Total Train: 14.14s, Test: 1.43s
+Training epoch 456: Loss=0.001 Acc=99.982 Training_time: 13.99s
+Training time stat of epoch 456: compute=12.948s data=0.837s move=0.205s
+Testing epoch 456: Loss=45.096 Acc=92.840 Testing_time: 1.37s
+Epoch 456: 7119.35s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 457: Loss=0.001 Acc=99.982 Training_time: 14.02s
+Training time stat of epoch 457: compute=12.955s data=0.862s move=0.207s
+Testing epoch 457: Loss=45.173 Acc=92.890 Testing_time: 1.38s
+Epoch 457: 7134.97s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 458: Loss=0.000 Acc=99.988 Training_time: 13.99s
+Training time stat of epoch 458: compute=12.953s data=0.833s move=0.205s
+Testing epoch 458: Loss=44.938 Acc=92.920 Testing_time: 1.38s
+Epoch 458: 7150.57s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 459: Loss=0.000 Acc=99.992 Training_time: 14.02s
+Training time stat of epoch 459: compute=12.952s data=0.858s move=0.206s
+Testing epoch 459: Loss=45.404 Acc=92.870 Testing_time: 1.38s
+Epoch 459: 7166.17s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 460: Loss=0.000 Acc=99.990 Training_time: 14.02s
+Training time stat of epoch 460: compute=12.955s data=0.862s move=0.206s
+Testing epoch 460: Loss=45.524 Acc=92.920 Testing_time: 1.38s
+Epoch 460: 7181.79s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 461: Loss=0.000 Acc=99.992 Training_time: 13.99s
+Training time stat of epoch 461: compute=12.951s data=0.835s move=0.205s
+Testing epoch 461: Loss=45.747 Acc=92.860 Testing_time: 1.38s
+Epoch 461: 7197.38s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 462: Loss=0.000 Acc=99.992 Training_time: 14.01s
+Training time stat of epoch 462: compute=12.966s data=0.838s move=0.204s
+Testing epoch 462: Loss=45.408 Acc=92.900 Testing_time: 1.36s
+Epoch 462: 7212.97s
+Total Train: 14.15s, Test: 1.44s
+Training epoch 463: Loss=0.000 Acc=99.990 Training_time: 14.00s
+Training time stat of epoch 463: compute=12.949s data=0.846s move=0.205s
+Testing epoch 463: Loss=45.615 Acc=92.730 Testing_time: 1.37s
+Epoch 463: 7228.57s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 464: Loss=0.000 Acc=99.998 Training_time: 14.01s
+Training time stat of epoch 464: compute=12.955s data=0.854s move=0.206s
+Testing epoch 464: Loss=45.701 Acc=92.900 Testing_time: 1.38s
+Epoch 464: 7244.18s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 465: Loss=0.000 Acc=99.988 Training_time: 14.00s
+Training time stat of epoch 465: compute=12.949s data=0.850s move=0.205s
+Testing epoch 465: Loss=46.376 Acc=92.830 Testing_time: 1.38s
+Epoch 465: 7259.79s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 466: Loss=0.001 Acc=99.978 Training_time: 13.99s
+Training time stat of epoch 466: compute=12.949s data=0.842s move=0.204s
+Testing epoch 466: Loss=46.868 Acc=92.700 Testing_time: 1.37s
+Epoch 466: 7275.38s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 467: Loss=0.001 Acc=99.984 Training_time: 14.01s
+Training time stat of epoch 467: compute=12.949s data=0.853s move=0.206s
+Testing epoch 467: Loss=46.291 Acc=92.920 Testing_time: 1.38s
+Epoch 467: 7290.98s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 468: Loss=0.001 Acc=99.980 Training_time: 14.00s
+Training time stat of epoch 468: compute=12.950s data=0.842s move=0.204s
+Testing epoch 468: Loss=46.176 Acc=92.750 Testing_time: 1.37s
+Epoch 468: 7306.57s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 469: Loss=0.001 Acc=99.990 Training_time: 14.00s
+Training time stat of epoch 469: compute=12.952s data=0.841s move=0.206s
+Testing epoch 469: Loss=46.927 Acc=92.750 Testing_time: 1.39s
+Epoch 469: 7322.18s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 470: Loss=0.001 Acc=99.982 Training_time: 14.02s
+Training time stat of epoch 470: compute=12.953s data=0.857s move=0.206s
+Testing epoch 470: Loss=47.575 Acc=92.860 Testing_time: 1.37s
+Epoch 470: 7337.78s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 471: Loss=0.001 Acc=99.978 Training_time: 13.96s
+Training time stat of epoch 471: compute=12.949s data=0.812s move=0.203s
+Testing epoch 471: Loss=47.766 Acc=92.970 Testing_time: 1.36s
+Epoch 471: 7353.32s
+Total Train: 14.10s, Test: 1.44s
+Training epoch 472: Loss=0.001 Acc=99.974 Training_time: 14.04s
+Training time stat of epoch 472: compute=12.958s data=0.873s move=0.207s
+Testing epoch 472: Loss=47.983 Acc=92.880 Testing_time: 1.39s
+Epoch 472: 7368.97s
+Total Train: 14.17s, Test: 1.47s
+Training epoch 473: Loss=0.002 Acc=99.942 Training_time: 14.00s
+Training time stat of epoch 473: compute=12.953s data=0.845s move=0.205s
+Testing epoch 473: Loss=50.010 Acc=92.470 Testing_time: 1.38s
+Epoch 473: 7384.57s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 474: Loss=0.003 Acc=99.908 Training_time: 13.99s
+Training time stat of epoch 474: compute=12.952s data=0.834s move=0.205s
+Testing epoch 474: Loss=50.755 Acc=92.250 Testing_time: 1.35s
+Epoch 474: 7400.13s
+Total Train: 14.13s, Test: 1.43s
+Training epoch 475: Loss=0.004 Acc=99.850 Training_time: 14.00s
+Training time stat of epoch 475: compute=12.949s data=0.841s move=0.205s
+Testing epoch 475: Loss=48.769 Acc=92.230 Testing_time: 1.37s
+Epoch 475: 7415.71s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 476: Loss=0.005 Acc=99.812 Training_time: 13.99s
+Training time stat of epoch 476: compute=12.950s data=0.840s move=0.204s
+Testing epoch 476: Loss=52.597 Acc=91.780 Testing_time: 1.37s
+Epoch 476: 7431.29s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 477: Loss=0.013 Acc=99.600 Training_time: 14.01s
+Training time stat of epoch 477: compute=12.952s data=0.855s move=0.206s
+Testing epoch 477: Loss=48.579 Acc=90.980 Testing_time: 1.38s
+Epoch 477: 7446.90s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 478: Loss=0.018 Acc=99.402 Training_time: 14.01s
+Training time stat of epoch 478: compute=12.952s data=0.857s move=0.205s
+Testing epoch 478: Loss=44.752 Acc=91.430 Testing_time: 1.40s
+Epoch 478: 7462.53s
+Total Train: 14.15s, Test: 1.48s
+Training epoch 479: Loss=0.016 Acc=99.482 Training_time: 13.99s
+Training time stat of epoch 479: compute=12.950s data=0.839s move=0.205s
+Testing epoch 479: Loss=45.627 Acc=91.690 Testing_time: 1.37s
+Epoch 479: 7478.12s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 480: Loss=0.021 Acc=99.344 Training_time: 13.94s
+Training time stat of epoch 480: compute=12.954s data=0.785s move=0.205s
+Testing epoch 480: Loss=45.810 Acc=90.880 Testing_time: 1.39s
+Epoch 480: 7493.67s
+Total Train: 14.08s, Test: 1.47s
+Training epoch 481: Loss=0.026 Acc=99.142 Training_time: 13.96s
+Training time stat of epoch 481: compute=12.955s data=0.803s move=0.205s
+Testing epoch 481: Loss=47.251 Acc=90.740 Testing_time: 1.38s
+Epoch 481: 7509.23s
+Total Train: 14.10s, Test: 1.46s
+Training epoch 482: Loss=0.026 Acc=99.132 Training_time: 13.99s
+Training time stat of epoch 482: compute=12.955s data=0.834s move=0.205s
+Testing epoch 482: Loss=45.510 Acc=90.910 Testing_time: 1.38s
+Epoch 482: 7524.82s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 483: Loss=0.029 Acc=98.988 Training_time: 14.02s
+Training time stat of epoch 483: compute=12.952s data=0.858s move=0.206s
+Testing epoch 483: Loss=47.366 Acc=90.630 Testing_time: 1.37s
+Epoch 483: 7540.43s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 484: Loss=0.032 Acc=98.938 Training_time: 13.96s
+Training time stat of epoch 484: compute=12.956s data=0.803s move=0.206s
+Testing epoch 484: Loss=44.177 Acc=90.690 Testing_time: 1.37s
+Epoch 484: 7556.00s
+Total Train: 14.11s, Test: 1.46s
+Training epoch 485: Loss=0.041 Acc=98.590 Training_time: 13.99s
+Training time stat of epoch 485: compute=12.949s data=0.836s move=0.205s
+Testing epoch 485: Loss=44.164 Acc=90.400 Testing_time: 1.35s
+Epoch 485: 7571.56s
+Total Train: 14.13s, Test: 1.43s
+Training epoch 486: Loss=0.042 Acc=98.608 Training_time: 14.01s
+Training time stat of epoch 486: compute=12.955s data=0.855s move=0.205s
+Testing epoch 486: Loss=49.060 Acc=89.450 Testing_time: 1.37s
+Epoch 486: 7587.16s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 487: Loss=0.047 Acc=98.376 Training_time: 14.01s
+Training time stat of epoch 487: compute=12.955s data=0.845s move=0.206s
+Testing epoch 487: Loss=46.921 Acc=90.380 Testing_time: 1.38s
+Epoch 487: 7602.77s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 488: Loss=0.046 Acc=98.414 Training_time: 14.01s
+Training time stat of epoch 488: compute=12.958s data=0.841s move=0.208s
+Testing epoch 488: Loss=44.623 Acc=89.980 Testing_time: 1.38s
+Epoch 488: 7618.41s
+Total Train: 14.16s, Test: 1.48s
+Training epoch 489: Loss=0.053 Acc=98.222 Training_time: 14.01s
+Training time stat of epoch 489: compute=12.953s data=0.846s move=0.206s
+Testing epoch 489: Loss=48.058 Acc=88.910 Testing_time: 1.38s
+Epoch 489: 7634.01s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 490: Loss=0.054 Acc=98.140 Training_time: 13.97s
+Training time stat of epoch 490: compute=12.948s data=0.822s move=0.203s
+Testing epoch 490: Loss=42.629 Acc=90.010 Testing_time: 1.36s
+Epoch 490: 7649.55s
+Total Train: 14.11s, Test: 1.44s
+Training epoch 491: Loss=0.055 Acc=98.080 Training_time: 14.00s
+Training time stat of epoch 491: compute=12.950s data=0.846s move=0.204s
+Testing epoch 491: Loss=45.250 Acc=89.750 Testing_time: 1.37s
+Epoch 491: 7665.15s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 492: Loss=0.056 Acc=98.112 Training_time: 14.02s
+Training time stat of epoch 492: compute=12.951s data=0.867s move=0.205s
+Testing epoch 492: Loss=40.692 Acc=89.590 Testing_time: 1.37s
+Epoch 492: 7680.77s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 493: Loss=0.055 Acc=98.190 Training_time: 14.01s
+Training time stat of epoch 493: compute=12.957s data=0.846s move=0.206s
+Testing epoch 493: Loss=42.687 Acc=89.410 Testing_time: 1.38s
+Epoch 493: 7696.38s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 494: Loss=0.055 Acc=98.112 Training_time: 13.99s
+Training time stat of epoch 494: compute=12.952s data=0.832s move=0.205s
+Testing epoch 494: Loss=39.495 Acc=90.910 Testing_time: 1.39s
+Epoch 494: 7711.99s
+Total Train: 14.13s, Test: 1.48s
+Training epoch 495: Loss=0.059 Acc=98.020 Training_time: 13.97s
+Training time stat of epoch 495: compute=12.951s data=0.813s move=0.204s
+Testing epoch 495: Loss=39.667 Acc=90.410 Testing_time: 1.40s
+Epoch 495: 7727.57s
+Total Train: 14.10s, Test: 1.47s
+Training epoch 496: Loss=0.057 Acc=98.058 Training_time: 13.97s
+Training time stat of epoch 496: compute=12.955s data=0.812s move=0.205s
+Testing epoch 496: Loss=40.691 Acc=90.660 Testing_time: 1.35s
+Epoch 496: 7743.11s
+Total Train: 14.11s, Test: 1.44s
+Training epoch 497: Loss=0.055 Acc=98.066 Training_time: 13.99s
+Training time stat of epoch 497: compute=12.950s data=0.835s move=0.204s
+Testing epoch 497: Loss=44.027 Acc=89.680 Testing_time: 1.40s
+Epoch 497: 7758.72s
+Total Train: 14.13s, Test: 1.48s
+Training epoch 498: Loss=0.060 Acc=97.994 Training_time: 13.99s
+Training time stat of epoch 498: compute=12.956s data=0.827s move=0.205s
+Testing epoch 498: Loss=45.517 Acc=89.720 Testing_time: 1.37s
+Epoch 498: 7774.30s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 499: Loss=0.055 Acc=98.104 Training_time: 14.00s
+Training time stat of epoch 499: compute=12.958s data=0.838s move=0.206s
+Testing epoch 499: Loss=50.244 Acc=88.860 Testing_time: 1.35s
+Epoch 499: 7789.86s
+Total Train: 14.14s, Test: 1.43s
+Training epoch 500: Loss=0.058 Acc=98.046 Training_time: 13.99s
+Training time stat of epoch 500: compute=12.951s data=0.833s move=0.205s
+Testing epoch 500: Loss=41.880 Acc=90.360 Testing_time: 1.38s
+Epoch 500: 7805.46s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 501: Loss=0.051 Acc=98.260 Training_time: 14.01s
+Training time stat of epoch 501: compute=12.954s data=0.854s move=0.207s
+Testing epoch 501: Loss=43.882 Acc=89.850 Testing_time: 1.37s
+Epoch 501: 7821.07s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 502: Loss=0.049 Acc=98.308 Training_time: 13.99s
+Training time stat of epoch 502: compute=12.949s data=0.837s move=0.204s
+Testing epoch 502: Loss=44.797 Acc=90.240 Testing_time: 1.36s
+Epoch 502: 7836.65s
+Total Train: 14.13s, Test: 1.44s
+Training epoch 503: Loss=0.057 Acc=98.048 Training_time: 14.00s
+Training time stat of epoch 503: compute=12.952s data=0.839s move=0.205s
+Testing epoch 503: Loss=47.017 Acc=89.520 Testing_time: 1.38s
+Epoch 503: 7852.25s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 504: Loss=0.052 Acc=98.184 Training_time: 14.01s
+Training time stat of epoch 504: compute=12.950s data=0.850s move=0.205s
+Testing epoch 504: Loss=38.595 Acc=90.740 Testing_time: 1.39s
+Epoch 504: 7867.85s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 505: Loss=0.046 Acc=98.466 Training_time: 13.99s
+Training time stat of epoch 505: compute=12.953s data=0.827s move=0.206s
+Testing epoch 505: Loss=46.053 Acc=89.850 Testing_time: 1.37s
+Epoch 505: 7883.43s
+Total Train: 14.12s, Test: 1.45s
+Training epoch 506: Loss=0.044 Acc=98.524 Training_time: 14.01s
+Training time stat of epoch 506: compute=12.954s data=0.852s move=0.207s
+Testing epoch 506: Loss=44.300 Acc=90.030 Testing_time: 1.36s
+Epoch 506: 7899.02s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 507: Loss=0.043 Acc=98.552 Training_time: 14.01s
+Training time stat of epoch 507: compute=12.950s data=0.855s move=0.206s
+Testing epoch 507: Loss=48.634 Acc=89.860 Testing_time: 1.36s
+Epoch 507: 7914.62s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 508: Loss=0.040 Acc=98.602 Training_time: 14.01s
+Training time stat of epoch 508: compute=12.950s data=0.851s move=0.205s
+Testing epoch 508: Loss=44.471 Acc=90.280 Testing_time: 1.38s
+Epoch 508: 7930.23s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 509: Loss=0.040 Acc=98.596 Training_time: 14.00s
+Training time stat of epoch 509: compute=12.953s data=0.845s move=0.206s
+Testing epoch 509: Loss=48.568 Acc=90.150 Testing_time: 1.41s
+Epoch 509: 7945.86s
+Total Train: 14.14s, Test: 1.49s
+Training epoch 510: Loss=0.039 Acc=98.656 Training_time: 13.99s
+Training time stat of epoch 510: compute=12.957s data=0.830s move=0.206s
+Testing epoch 510: Loss=46.749 Acc=90.370 Testing_time: 1.38s
+Epoch 510: 7961.46s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 511: Loss=0.038 Acc=98.762 Training_time: 14.01s
+Training time stat of epoch 511: compute=12.952s data=0.854s move=0.206s
+Testing epoch 511: Loss=37.984 Acc=91.500 Testing_time: 1.37s
+Epoch 511: 7977.08s
+Total Train: 14.17s, Test: 1.45s
+Training epoch 512: Loss=0.033 Acc=98.866 Training_time: 13.99s
+Training time stat of epoch 512: compute=12.956s data=0.827s move=0.206s
+Testing epoch 512: Loss=42.014 Acc=91.310 Testing_time: 1.37s
+Epoch 512: 7992.66s
+Total Train: 14.12s, Test: 1.45s
+Training epoch 513: Loss=0.032 Acc=98.906 Training_time: 14.00s
+Training time stat of epoch 513: compute=12.957s data=0.837s move=0.206s
+Testing epoch 513: Loss=42.193 Acc=90.970 Testing_time: 1.36s
+Epoch 513: 8008.24s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 514: Loss=0.029 Acc=99.010 Training_time: 14.03s
+Training time stat of epoch 514: compute=12.956s data=0.864s move=0.206s
+Testing epoch 514: Loss=44.559 Acc=90.820 Testing_time: 1.37s
+Epoch 514: 8023.87s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 515: Loss=0.026 Acc=99.140 Training_time: 14.00s
+Training time stat of epoch 515: compute=12.948s data=0.845s move=0.205s
+Testing epoch 515: Loss=44.793 Acc=91.020 Testing_time: 1.42s
+Epoch 515: 8039.50s
+Total Train: 14.13s, Test: 1.50s
+Training epoch 516: Loss=0.024 Acc=99.212 Training_time: 14.01s
+Training time stat of epoch 516: compute=12.953s data=0.851s move=0.205s
+Testing epoch 516: Loss=43.550 Acc=91.530 Testing_time: 1.35s
+Epoch 516: 8055.08s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 517: Loss=0.022 Acc=99.266 Training_time: 13.98s
+Training time stat of epoch 517: compute=12.956s data=0.820s move=0.206s
+Testing epoch 517: Loss=44.309 Acc=91.390 Testing_time: 1.37s
+Epoch 517: 8070.65s
+Total Train: 14.12s, Test: 1.45s
+Training epoch 518: Loss=0.019 Acc=99.382 Training_time: 14.01s
+Training time stat of epoch 518: compute=12.950s data=0.855s move=0.204s
+Testing epoch 518: Loss=42.171 Acc=91.880 Testing_time: 1.38s
+Epoch 518: 8086.27s
+Total Train: 14.15s, Test: 1.47s
+Training epoch 519: Loss=0.016 Acc=99.464 Training_time: 14.04s
+Training time stat of epoch 519: compute=12.963s data=0.875s move=0.207s
+Testing epoch 519: Loss=46.900 Acc=91.370 Testing_time: 1.38s
+Epoch 519: 8101.91s
+Total Train: 14.18s, Test: 1.46s
+Training epoch 520: Loss=0.015 Acc=99.472 Training_time: 13.99s
+Training time stat of epoch 520: compute=12.956s data=0.825s move=0.204s
+Testing epoch 520: Loss=41.737 Acc=92.080 Testing_time: 1.37s
+Epoch 520: 8117.49s
+Total Train: 14.12s, Test: 1.46s
+Training epoch 521: Loss=0.013 Acc=99.532 Training_time: 13.99s
+Training time stat of epoch 521: compute=12.947s data=0.839s move=0.204s
+Testing epoch 521: Loss=45.735 Acc=91.780 Testing_time: 1.37s
+Epoch 521: 8133.07s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 522: Loss=0.014 Acc=99.540 Training_time: 13.99s
+Training time stat of epoch 522: compute=12.949s data=0.838s move=0.204s
+Testing epoch 522: Loss=42.437 Acc=92.220 Testing_time: 1.37s
+Epoch 522: 8148.64s
+Total Train: 14.13s, Test: 1.44s
+Training epoch 523: Loss=0.011 Acc=99.614 Training_time: 14.02s
+Training time stat of epoch 523: compute=12.957s data=0.859s move=0.206s
+Testing epoch 523: Loss=47.237 Acc=91.630 Testing_time: 1.36s
+Epoch 523: 8164.25s
+Total Train: 14.16s, Test: 1.44s
+Training epoch 524: Loss=0.009 Acc=99.704 Training_time: 14.03s
+Training time stat of epoch 524: compute=12.952s data=0.872s move=0.205s
+Testing epoch 524: Loss=42.250 Acc=92.470 Testing_time: 1.39s
+Epoch 524: 8179.88s
+Total Train: 14.17s, Test: 1.47s
+Training epoch 525: Loss=0.008 Acc=99.750 Training_time: 14.03s
+Training time stat of epoch 525: compute=12.955s data=0.869s move=0.206s
+Testing epoch 525: Loss=41.706 Acc=92.700 Testing_time: 1.38s
+Epoch 525: 8195.52s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 526: Loss=0.007 Acc=99.774 Training_time: 14.00s
+Training time stat of epoch 526: compute=12.953s data=0.841s move=0.205s
+Testing epoch 526: Loss=43.662 Acc=92.300 Testing_time: 1.37s
+Epoch 526: 8211.10s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 527: Loss=0.005 Acc=99.824 Training_time: 13.99s
+Training time stat of epoch 527: compute=12.955s data=0.829s move=0.206s
+Testing epoch 527: Loss=43.541 Acc=92.400 Testing_time: 1.36s
+Epoch 527: 8226.67s
+Total Train: 14.13s, Test: 1.44s
+Training epoch 528: Loss=0.004 Acc=99.876 Training_time: 14.02s
+Training time stat of epoch 528: compute=12.953s data=0.862s move=0.206s
+Testing epoch 528: Loss=43.057 Acc=92.870 Testing_time: 1.37s
+Epoch 528: 8242.28s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 529: Loss=0.004 Acc=99.894 Training_time: 14.00s
+Training time stat of epoch 529: compute=12.954s data=0.838s move=0.206s
+Testing epoch 529: Loss=44.049 Acc=92.990 Testing_time: 1.39s
+Epoch 529: 8257.89s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 530: Loss=0.003 Acc=99.914 Training_time: 14.03s
+Training time stat of epoch 530: compute=12.956s data=0.866s move=0.207s
+Testing epoch 530: Loss=44.094 Acc=92.980 Testing_time: 1.38s
+Epoch 530: 8273.51s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 531: Loss=0.002 Acc=99.948 Training_time: 14.03s
+Training time stat of epoch 531: compute=12.956s data=0.862s move=0.208s
+Testing epoch 531: Loss=44.215 Acc=93.030 Testing_time: 1.37s
+Epoch 531: 8289.13s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 532: Loss=0.002 Acc=99.964 Training_time: 14.02s
+Training time stat of epoch 532: compute=12.961s data=0.856s move=0.207s
+Testing epoch 532: Loss=44.674 Acc=93.170 Testing_time: 1.39s
+Epoch 532: 8304.76s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 533: Loss=0.002 Acc=99.954 Training_time: 14.00s
+Training time stat of epoch 533: compute=12.954s data=0.835s move=0.207s
+Testing epoch 533: Loss=43.591 Acc=93.120 Testing_time: 1.35s
+Epoch 533: 8320.34s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 534: Loss=0.001 Acc=99.960 Training_time: 13.98s
+Training time stat of epoch 534: compute=12.953s data=0.823s move=0.204s
+Testing epoch 534: Loss=43.333 Acc=93.170 Testing_time: 1.38s
+Epoch 534: 8335.93s
+Total Train: 14.12s, Test: 1.47s
+Training epoch 535: Loss=0.002 Acc=99.942 Training_time: 14.00s
+Training time stat of epoch 535: compute=12.953s data=0.843s move=0.206s
+Testing epoch 535: Loss=42.776 Acc=93.280 Testing_time: 1.40s
+Epoch 535: 8351.54s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 536: Loss=0.001 Acc=99.966 Training_time: 13.99s
+Training time stat of epoch 536: compute=12.952s data=0.837s move=0.205s
+Testing epoch 536: Loss=42.812 Acc=93.270 Testing_time: 1.38s
+Epoch 536: 8367.13s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 537: Loss=0.001 Acc=99.980 Training_time: 14.00s
+Training time stat of epoch 537: compute=12.954s data=0.839s move=0.207s
+Testing epoch 537: Loss=43.511 Acc=93.150 Testing_time: 1.40s
+Epoch 537: 8382.74s
+Total Train: 14.14s, Test: 1.48s
+Training epoch 538: Loss=0.001 Acc=99.982 Training_time: 14.02s
+Training time stat of epoch 538: compute=12.956s data=0.854s move=0.207s
+Testing epoch 538: Loss=43.490 Acc=93.320 Testing_time: 1.38s
+Epoch 538: 8398.36s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 539: Loss=0.001 Acc=99.988 Training_time: 14.03s
+Training time stat of epoch 539: compute=12.958s data=0.867s move=0.208s
+Testing epoch 539: Loss=42.693 Acc=93.320 Testing_time: 1.37s
+Epoch 539: 8413.97s
+Total Train: 14.17s, Test: 1.45s
+Training epoch 540: Loss=0.001 Acc=99.980 Training_time: 14.00s
+Training time stat of epoch 540: compute=12.950s data=0.843s move=0.205s
+Testing epoch 540: Loss=43.331 Acc=93.290 Testing_time: 1.37s
+Epoch 540: 8429.56s
+Total Train: 14.13s, Test: 1.46s
+Training epoch 541: Loss=0.000 Acc=99.992 Training_time: 14.00s
+Training time stat of epoch 541: compute=12.956s data=0.835s move=0.206s
+Testing epoch 541: Loss=43.170 Acc=93.300 Testing_time: 1.40s
+Epoch 541: 8445.18s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 542: Loss=0.001 Acc=99.978 Training_time: 14.00s
+Training time stat of epoch 542: compute=12.951s data=0.841s move=0.206s
+Testing epoch 542: Loss=43.263 Acc=93.390 Testing_time: 1.36s
+Epoch 542: 8460.76s
+Total Train: 14.15s, Test: 1.44s
+Training epoch 543: Loss=0.000 Acc=99.988 Training_time: 13.99s
+Training time stat of epoch 543: compute=12.956s data=0.829s move=0.206s
+Testing epoch 543: Loss=42.805 Acc=93.280 Testing_time: 1.37s
+Epoch 543: 8476.35s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 544: Loss=0.000 Acc=99.992 Training_time: 14.05s
+Training time stat of epoch 544: compute=12.953s data=0.888s move=0.207s
+Testing epoch 544: Loss=42.691 Acc=93.380 Testing_time: 1.39s
+Epoch 544: 8492.00s
+Total Train: 14.18s, Test: 1.46s
+Training epoch 545: Loss=0.000 Acc=99.988 Training_time: 13.97s
+Training time stat of epoch 545: compute=12.956s data=0.807s move=0.207s
+Testing epoch 545: Loss=42.871 Acc=93.280 Testing_time: 1.35s
+Epoch 545: 8507.55s
+Total Train: 14.11s, Test: 1.44s
+Training epoch 546: Loss=0.000 Acc=99.994 Training_time: 14.00s
+Training time stat of epoch 546: compute=12.958s data=0.832s move=0.207s
+Testing epoch 546: Loss=42.863 Acc=93.310 Testing_time: 1.37s
+Epoch 546: 8523.13s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 547: Loss=0.000 Acc=99.988 Training_time: 14.00s
+Training time stat of epoch 547: compute=12.953s data=0.844s move=0.207s
+Testing epoch 547: Loss=43.338 Acc=93.370 Testing_time: 1.35s
+Epoch 547: 8538.71s
+Total Train: 14.14s, Test: 1.43s
+Training epoch 548: Loss=0.000 Acc=99.994 Training_time: 14.00s
+Training time stat of epoch 548: compute=12.952s data=0.845s move=0.207s
+Testing epoch 548: Loss=42.865 Acc=93.330 Testing_time: 1.36s
+Epoch 548: 8554.29s
+Total Train: 14.15s, Test: 1.44s
+Training epoch 549: Loss=0.000 Acc=99.990 Training_time: 14.03s
+Training time stat of epoch 549: compute=12.960s data=0.866s move=0.209s
+Testing epoch 549: Loss=42.912 Acc=93.330 Testing_time: 1.36s
+Epoch 549: 8569.94s
+Total Train: 14.17s, Test: 1.47s
+Training epoch 550: Loss=0.001 Acc=99.986 Training_time: 14.00s
+Training time stat of epoch 550: compute=12.955s data=0.836s move=0.206s
+Testing epoch 550: Loss=43.069 Acc=93.410 Testing_time: 1.37s
+Epoch 550: 8585.57s
+Total Train: 14.14s, Test: 1.48s
+Training epoch 551: Loss=0.001 Acc=99.986 Training_time: 14.03s
+Training time stat of epoch 551: compute=12.956s data=0.863s move=0.207s
+Testing epoch 551: Loss=42.689 Acc=93.280 Testing_time: 1.36s
+Epoch 551: 8601.18s
+Total Train: 14.17s, Test: 1.44s
+Training epoch 552: Loss=0.000 Acc=99.994 Training_time: 14.01s
+Training time stat of epoch 552: compute=12.960s data=0.840s move=0.207s
+Testing epoch 552: Loss=42.906 Acc=93.300 Testing_time: 1.38s
+Epoch 552: 8616.78s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 553: Loss=0.000 Acc=99.990 Training_time: 14.00s
+Training time stat of epoch 553: compute=12.955s data=0.839s move=0.207s
+Testing epoch 553: Loss=43.016 Acc=93.280 Testing_time: 1.40s
+Epoch 553: 8632.41s
+Total Train: 14.15s, Test: 1.48s
+Training epoch 554: Loss=0.000 Acc=99.992 Training_time: 14.00s
+Training time stat of epoch 554: compute=12.951s data=0.843s move=0.206s
+Testing epoch 554: Loss=42.856 Acc=93.360 Testing_time: 1.37s
+Epoch 554: 8648.00s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 555: Loss=0.000 Acc=99.992 Training_time: 14.02s
+Training time stat of epoch 555: compute=12.955s data=0.857s move=0.207s
+Testing epoch 555: Loss=42.891 Acc=93.310 Testing_time: 1.38s
+Epoch 555: 8663.62s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 556: Loss=0.000 Acc=99.996 Training_time: 14.02s
+Training time stat of epoch 556: compute=12.957s data=0.858s move=0.207s
+Testing epoch 556: Loss=43.355 Acc=93.360 Testing_time: 1.37s
+Epoch 556: 8679.23s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 557: Loss=0.000 Acc=99.994 Training_time: 14.02s
+Training time stat of epoch 557: compute=12.954s data=0.856s move=0.206s
+Testing epoch 557: Loss=43.050 Acc=93.290 Testing_time: 1.38s
+Epoch 557: 8694.85s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 558: Loss=0.000 Acc=99.984 Training_time: 13.99s
+Training time stat of epoch 558: compute=12.955s data=0.831s move=0.207s
+Testing epoch 558: Loss=42.856 Acc=93.370 Testing_time: 1.38s
+Epoch 558: 8710.45s
+Total Train: 14.13s, Test: 1.47s
+Training epoch 559: Loss=0.000 Acc=99.996 Training_time: 13.97s
+Training time stat of epoch 559: compute=12.953s data=0.812s move=0.206s
+Testing epoch 559: Loss=43.343 Acc=93.320 Testing_time: 1.36s
+Epoch 559: 8725.99s
+Total Train: 14.11s, Test: 1.44s
+Training epoch 560: Loss=0.000 Acc=99.992 Training_time: 13.98s
+Training time stat of epoch 560: compute=12.957s data=0.817s move=0.207s
+Testing epoch 560: Loss=42.891 Acc=93.300 Testing_time: 1.37s
+Epoch 560: 8741.56s
+Total Train: 14.12s, Test: 1.45s
+Training epoch 561: Loss=0.000 Acc=99.992 Training_time: 13.98s
+Training time stat of epoch 561: compute=12.947s data=0.828s move=0.205s
+Testing epoch 561: Loss=42.921 Acc=93.370 Testing_time: 1.38s
+Epoch 561: 8757.14s
+Total Train: 14.12s, Test: 1.46s
+Training epoch 562: Loss=0.000 Acc=99.998 Training_time: 14.01s
+Training time stat of epoch 562: compute=12.949s data=0.853s move=0.205s
+Testing epoch 562: Loss=43.198 Acc=93.210 Testing_time: 1.37s
+Epoch 562: 8772.73s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 563: Loss=0.000 Acc=99.988 Training_time: 14.03s
+Training time stat of epoch 563: compute=12.954s data=0.866s move=0.206s
+Testing epoch 563: Loss=43.529 Acc=93.280 Testing_time: 1.37s
+Epoch 563: 8788.35s
+Total Train: 14.16s, Test: 1.45s
+Training epoch 564: Loss=0.000 Acc=99.990 Training_time: 13.98s
+Training time stat of epoch 564: compute=12.949s data=0.826s move=0.202s
+Testing epoch 564: Loss=42.891 Acc=93.440 Testing_time: 1.39s
+Epoch 564: 8803.96s
+Total Train: 14.12s, Test: 1.50s
+Training epoch 565: Loss=0.000 Acc=99.990 Training_time: 14.00s
+Training time stat of epoch 565: compute=12.957s data=0.840s move=0.205s
+Testing epoch 565: Loss=42.917 Acc=93.480 Testing_time: 1.38s
+Epoch 565: 8819.56s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 566: Loss=0.001 Acc=99.980 Training_time: 14.02s
+Training time stat of epoch 566: compute=12.956s data=0.856s move=0.204s
+Testing epoch 566: Loss=43.797 Acc=93.220 Testing_time: 1.37s
+Epoch 566: 8835.16s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 567: Loss=0.000 Acc=99.992 Training_time: 13.98s
+Training time stat of epoch 567: compute=12.950s data=0.831s move=0.203s
+Testing epoch 567: Loss=43.269 Acc=93.340 Testing_time: 1.37s
+Epoch 567: 8850.74s
+Total Train: 14.12s, Test: 1.46s
+Training epoch 568: Loss=0.000 Acc=99.994 Training_time: 14.00s
+Training time stat of epoch 568: compute=12.948s data=0.851s move=0.203s
+Testing epoch 568: Loss=43.269 Acc=93.280 Testing_time: 1.35s
+Epoch 568: 8866.31s
+Total Train: 14.14s, Test: 1.43s
+Training epoch 569: Loss=0.000 Acc=99.994 Training_time: 13.98s
+Training time stat of epoch 569: compute=12.948s data=0.834s move=0.202s
+Testing epoch 569: Loss=43.412 Acc=93.070 Testing_time: 1.34s
+Epoch 569: 8881.86s
+Total Train: 14.13s, Test: 1.42s
+Training epoch 570: Loss=0.000 Acc=99.986 Training_time: 13.99s
+Training time stat of epoch 570: compute=12.952s data=0.840s move=0.203s
+Testing epoch 570: Loss=44.568 Acc=93.190 Testing_time: 1.38s
+Epoch 570: 8897.45s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 571: Loss=0.000 Acc=99.992 Training_time: 14.00s
+Training time stat of epoch 571: compute=12.951s data=0.840s move=0.204s
+Testing epoch 571: Loss=43.863 Acc=93.310 Testing_time: 1.36s
+Epoch 571: 8913.03s
+Total Train: 14.13s, Test: 1.44s
+Training epoch 572: Loss=0.001 Acc=99.972 Training_time: 13.97s
+Training time stat of epoch 572: compute=12.956s data=0.807s move=0.203s
+Testing epoch 572: Loss=45.357 Acc=92.990 Testing_time: 1.38s
+Epoch 572: 8928.59s
+Total Train: 14.10s, Test: 1.46s
+Training epoch 573: Loss=0.001 Acc=99.966 Training_time: 14.00s
+Training time stat of epoch 573: compute=12.950s data=0.850s move=0.204s
+Testing epoch 573: Loss=46.984 Acc=92.790 Testing_time: 1.37s
+Epoch 573: 8944.17s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 574: Loss=0.003 Acc=99.908 Training_time: 14.00s
+Training time stat of epoch 574: compute=12.954s data=0.842s move=0.204s
+Testing epoch 574: Loss=48.878 Acc=92.580 Testing_time: 1.38s
+Epoch 574: 8959.81s
+Total Train: 14.17s, Test: 1.46s
+Training epoch 575: Loss=0.005 Acc=99.840 Training_time: 14.02s
+Training time stat of epoch 575: compute=12.954s data=0.866s move=0.204s
+Testing epoch 575: Loss=52.194 Acc=91.760 Testing_time: 1.37s
+Epoch 575: 8975.43s
+Total Train: 14.17s, Test: 1.45s
+Training epoch 576: Loss=0.006 Acc=99.792 Training_time: 13.98s
+Training time stat of epoch 576: compute=12.956s data=0.821s move=0.205s
+Testing epoch 576: Loss=45.132 Acc=92.370 Testing_time: 1.37s
+Epoch 576: 8990.99s
+Total Train: 14.12s, Test: 1.45s
+Training epoch 577: Loss=0.006 Acc=99.804 Training_time: 14.00s
+Training time stat of epoch 577: compute=12.950s data=0.846s move=0.204s
+Testing epoch 577: Loss=46.885 Acc=92.480 Testing_time: 1.37s
+Epoch 577: 9006.57s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 578: Loss=0.011 Acc=99.626 Training_time: 14.00s
+Training time stat of epoch 578: compute=12.951s data=0.845s move=0.203s
+Testing epoch 578: Loss=44.874 Acc=91.920 Testing_time: 1.36s
+Epoch 578: 9022.15s
+Total Train: 14.14s, Test: 1.44s
+Training epoch 579: Loss=0.012 Acc=99.584 Training_time: 14.01s
+Training time stat of epoch 579: compute=12.954s data=0.847s move=0.206s
+Testing epoch 579: Loss=45.449 Acc=91.870 Testing_time: 1.38s
+Epoch 579: 9037.76s
+Total Train: 14.15s, Test: 1.46s
+Training epoch 580: Loss=0.017 Acc=99.416 Training_time: 14.01s
+Training time stat of epoch 580: compute=12.949s data=0.863s move=0.202s
+Testing epoch 580: Loss=50.613 Acc=90.880 Testing_time: 1.37s
+Epoch 580: 9053.36s
+Total Train: 14.15s, Test: 1.45s
+Training epoch 581: Loss=0.024 Acc=99.164 Training_time: 13.96s
+Training time stat of epoch 581: compute=12.949s data=0.804s move=0.203s
+Testing epoch 581: Loss=47.835 Acc=90.490 Testing_time: 1.37s
+Epoch 581: 9068.91s
+Total Train: 14.10s, Test: 1.45s
+Training epoch 582: Loss=0.023 Acc=99.222 Training_time: 13.96s
+Training time stat of epoch 582: compute=12.954s data=0.807s move=0.202s
+Testing epoch 582: Loss=43.243 Acc=91.250 Testing_time: 1.38s
+Epoch 582: 9084.47s
+Total Train: 14.10s, Test: 1.46s
+Training epoch 583: Loss=0.029 Acc=99.024 Training_time: 14.00s
+Training time stat of epoch 583: compute=12.949s data=0.850s move=0.203s
+Testing epoch 583: Loss=42.531 Acc=91.300 Testing_time: 1.38s
+Epoch 583: 9100.07s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 584: Loss=0.032 Acc=98.888 Training_time: 14.00s
+Training time stat of epoch 584: compute=12.956s data=0.843s move=0.204s
+Testing epoch 584: Loss=50.050 Acc=89.550 Testing_time: 1.38s
+Epoch 584: 9115.69s
+Total Train: 14.16s, Test: 1.46s
+Training epoch 585: Loss=0.040 Acc=98.644 Training_time: 13.99s
+Training time stat of epoch 585: compute=12.952s data=0.834s move=0.204s
+Testing epoch 585: Loss=49.319 Acc=90.020 Testing_time: 1.40s
+Epoch 585: 9131.29s
+Total Train: 14.13s, Test: 1.48s
+Training epoch 586: Loss=0.041 Acc=98.618 Training_time: 14.00s
+Training time stat of epoch 586: compute=12.957s data=0.843s move=0.204s
+Testing epoch 586: Loss=44.580 Acc=90.840 Testing_time: 1.36s
+Epoch 586: 9146.90s
+Total Train: 14.14s, Test: 1.47s
+Training epoch 587: Loss=0.042 Acc=98.572 Training_time: 14.00s
+Training time stat of epoch 587: compute=12.956s data=0.837s move=0.204s
+Testing epoch 587: Loss=44.959 Acc=90.470 Testing_time: 1.38s
+Epoch 587: 9162.52s
+Total Train: 14.13s, Test: 1.49s
+Training epoch 588: Loss=0.046 Acc=98.418 Training_time: 13.99s
+Training time stat of epoch 588: compute=12.954s data=0.832s move=0.203s
+Testing epoch 588: Loss=39.076 Acc=90.630 Testing_time: 1.36s
+Epoch 588: 9178.09s
+Total Train: 14.13s, Test: 1.44s
+Training epoch 589: Loss=0.051 Acc=98.274 Training_time: 13.98s
+Training time stat of epoch 589: compute=12.954s data=0.823s move=0.203s
+Testing epoch 589: Loss=43.749 Acc=90.470 Testing_time: 1.35s
+Epoch 589: 9193.63s
+Total Train: 14.12s, Test: 1.43s
+Training epoch 590: Loss=0.052 Acc=98.212 Training_time: 13.96s
+Training time stat of epoch 590: compute=12.949s data=0.807s move=0.202s
+Testing epoch 590: Loss=51.052 Acc=89.030 Testing_time: 1.38s
+Epoch 590: 9209.19s
+Total Train: 14.10s, Test: 1.46s
+Training epoch 591: Loss=0.049 Acc=98.350 Training_time: 14.00s
+Training time stat of epoch 591: compute=12.957s data=0.842s move=0.204s
+Testing epoch 591: Loss=45.274 Acc=89.770 Testing_time: 1.36s
+Epoch 591: 9224.76s
+Total Train: 14.14s, Test: 1.43s
+Training epoch 592: Loss=0.050 Acc=98.342 Training_time: 14.00s
+Training time stat of epoch 592: compute=12.955s data=0.843s move=0.204s
+Testing epoch 592: Loss=46.095 Acc=89.920 Testing_time: 1.37s
+Epoch 592: 9240.36s
+Total Train: 14.14s, Test: 1.45s
+Training epoch 593: Loss=0.058 Acc=97.962 Training_time: 14.03s
+Training time stat of epoch 593: compute=12.955s data=0.873s move=0.204s
+Testing epoch 593: Loss=43.812 Acc=89.760 Testing_time: 1.36s
+Epoch 593: 9255.97s
+Total Train: 14.17s, Test: 1.44s
+Training epoch 594: Loss=0.053 Acc=98.218 Training_time: 13.96s
+Training time stat of epoch 594: compute=12.948s data=0.810s move=0.203s
+Testing epoch 594: Loss=39.151 Acc=90.840 Testing_time: 1.39s
+Epoch 594: 9271.53s
+Total Train: 14.10s, Test: 1.46s
+Training epoch 595: Loss=0.056 Acc=98.078 Training_time: 13.99s
+Training time stat of epoch 595: compute=12.949s data=0.837s move=0.204s
+Testing epoch 595: Loss=43.058 Acc=90.240 Testing_time: 1.36s
+Epoch 595: 9287.11s
+Total Train: 14.13s, Test: 1.45s
+Training epoch 596: Loss=0.054 Acc=98.208 Training_time: 13.99s
+Training time stat of epoch 596: compute=12.958s data=0.832s move=0.204s
+Testing epoch 596: Loss=47.685 Acc=90.090 Testing_time: 1.37s
+Epoch 596: 9302.70s
+Total Train: 14.14s, Test: 1.46s
+Training epoch 597: Loss=0.053 Acc=98.184 Training_time: 14.02s
+Training time stat of epoch 597: compute=12.963s data=0.850s move=0.206s
+Testing epoch 597: Loss=45.265 Acc=90.310 Testing_time: 1.40s
+Epoch 597: 9318.33s
+Total Train: 14.16s, Test: 1.47s
+Training epoch 598: Loss=0.052 Acc=98.202 Training_time: 13.97s
+Training time stat of epoch 598: compute=12.946s data=0.821s move=0.202s
+Testing epoch 598: Loss=46.197 Acc=90.180 Testing_time: 1.36s
+Epoch 598: 9333.88s
+Total Train: 14.11s, Test: 1.44s
+Training epoch 599: Loss=0.052 Acc=98.208 Training_time: 14.00s
+Training time stat of epoch 599: compute=12.950s data=0.843s move=0.203s
+Testing epoch 599: Loss=44.347 Acc=89.960 Testing_time: 1.40s
+Epoch 599: 9349.49s
+Total Train: 14.14s, Test: 1.48s
+Training epoch 600: Loss=0.055 Acc=98.198 Training_time: 14.00s
+Training time stat of epoch 600: compute=12.953s data=0.841s move=0.204s
+Testing epoch 600: Loss=46.294 Acc=89.630 Testing_time: 1.42s
+Epoch 600: 9365.13s
+Total Train: 14.14s, Test: 1.50s
+The size of the model is: 42.662MB
