@@ -2,7 +2,7 @@
 Project of NYU Tandon 2022S ECE-9143.  
 Evaluating the DL Trainging system performance using different precisions.  
 We measured the system performence using three different precisions -- FP32, AMP and FP16, discuss the pros and cons and why.  
-Using ResNet based on [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html). 
+Using model ResNet and dataset [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html). 
 Maintained by [Jingxuan Wang](https://github.com/Jexxie) and [Yuchen Kou](https://github.com/Icedcoco). 
 
 
@@ -19,9 +19,19 @@ Maintained by [Jingxuan Wang](https://github.com/Jexxie) and [Yuchen Kou](https:
 
 
 # Environment
+### Platform:
+NYU HPC  
+### Hardware:
+• Node type: Lenovo SR670  
+• CPU: Intel Xeon Platinum 8268 24C 205W 2.9GHz  
+• GPU: V100 (32 GB) NVIDIA GPU cards [3]  
+### Software:
+• OS: Red Hat Enterprise Linux release 8.4  
+• Programming language: Python 3.8  
+• Deep learning frameworks: PyTorch  
+
 # Usage
-Platform: NYU HPC
-Upload .py file and .sbatch file in the same path, and run sbatch. 
+Upload main.py file and .sbatch file in the same path, and run sbatch. 
 
 ## Example on HPC
 In sbatch file:
