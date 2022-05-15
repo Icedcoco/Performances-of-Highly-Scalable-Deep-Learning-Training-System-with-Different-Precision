@@ -6,6 +6,8 @@ Using ResNet based on [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html).
 Maintained by [Jingxuan Wang](https://github.com/Jexxie) and [Yuchen Kou](https://github.com/Icedcoco). 
 
 
+# Content in this repository
+
 - [Content in this repository](#content-in-this-repository)
 - [Environment](#environment)
 - [Usage](#usage)
@@ -16,12 +18,12 @@ Maintained by [Jingxuan Wang](https://github.com/Jexxie) and [Yuchen Kou](https:
 
 
 
-
-# Content in this repository
 # Environment
 # Usage
-(how to execute the code)
 Platform: NYU HPC
+Upload .py file and .sbatch file in the same path, and run sbatch. 
+
+## Example on HPC
 In sbatch file:
 
 Select network: ResNet18(Default), ResNet34(--use_34), ResNet50(--use_50)  
@@ -31,7 +33,6 @@ Other parameters used in the project:
   Hardware: 4 CPU + 1 GPU per process  
   Hyperparameters: --num_workers=2 --optimizer='sgd' --use_cuda --lr=0.005 --epoch=600 --batch_size=128  
   
-## Example on HPC
 # Code Structure
 # Results and Observation
 
@@ -46,7 +47,6 @@ Other parameters used in the project:
  - When we started this project, the lecture did not involve relevant knowledge, and the principle was not clear. We spent a lot of time looking at the NVIDIA manual,  related papers and blogs to learn about the possible performance and differences between different precisions. 
  - We planned to use multiple machines in parallel to calculate under different precisions situations, and we were not sure if we could accomplish this task. 
  - We are not sure if the experimental results will be consistent with our prediction。 
- - 
 
 
 
