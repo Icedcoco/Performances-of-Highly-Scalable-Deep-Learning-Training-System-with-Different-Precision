@@ -56,8 +56,8 @@ Other parameters used in the project:
 # Challenges we met
  - When we started this project, the lecture did not involve relevant knowledge, and the principle was not clear. We spent a lot of time looking at the NVIDIA manual,  related papers and blogs to learn about the possible performance and differences between different precisions. 
  - We planned to use multiple machines in parallel to calculate under different precisions situations, and we were not sure if we could accomplish this task. 
- - We are not sure if the experimental results will be consistent with our prediction。 
-
+ - We are not sure if the experimental results will be consistent with our prediction. 
+ - Due to the unavailability of NVIDIA A100 resources, we cancelled our plans to include TF32 (tensorflow float 32) in the project.
 
 
 
